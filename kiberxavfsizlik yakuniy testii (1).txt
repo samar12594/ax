@@ -1,0 +1,2769 @@
+
+
+Axborot xavfsizligi siyosatining asosiy turlari nechta?
+====
+#3.
+====
+5
+====
+7 
+====
+4 
+
+
+++++
+
+
+Axborot xavfsizligi bo'yicha samarali trening va xabardorlik ishlarini boshlashdan oldin nima ish qilish qat’iy talab qilinadi? 
+==== 
+#Axborot xavfsizligi siyosatini ishlab chiqish.
+====
+Axborot tizimlari ta’minotini tekshirish 
+====
+Axborot xavfsizligini monitoring qilish 
+====
+Xavf – xatarlarni tahlil qilish 
+
+
+++++
+
+
+Maslahatchini yollash narxi texnik nazorat narxi bilan solishtirganda qanday?
+====
+#Minimal. 
+====
+Maksimal 
+====
+Deyarli teng 
+====
+Ularni solishtirish mantiqsiz 
+
+
+++++
+
+
+Sifatli axborot xavfsizligi dasturi ……… bilan boshlanadi va tugaydi?
+====  
+#Axborot xavfsizligi siyosati. 
+====
+Axborot tizimlari himoyalanganligi 
+====
+Kiberxavfsizlik 
+====
+Audit 
+
+
+++++
+
+
+Amalga oshirish uchun eng arzon nazorat vositasi bo'lsa-da, ko'pincha ularni amalga oshirish eng qiyin hisoblanuvchi tizimni toping. ?
+====  
+#Axborot xavfsizligi siyosati. 
+====
+Ichki audit 
+====
+Tashqi audit 
+====
+Fizik himoya 
+
+
+++++
+
+
+Axborot tizimlaridan to'g'ri foydalanish uchun javobgarlikning adekvat taqsimlanishini ta'minlash kimni vakolatiga kiradi?
+==== 
+#Rahbariyat. 
+====
+Tizim administrator 
+====
+AX siyosatini ishlab chiqqan shaxs 
+====
+Tarmoq administrator 
+
+
+++++
+
+
+Murakkab o'zgarishlarga ustuvorlik berishning tasdiqlangan mexanizmi bu…?
+====
+#Bull's Eye modeli. 
+====
+Mandatli model 
+====
+Rolli model 
+====
+Bell – LaPadula modeli 
+
+
+++++
+
+
+Qaysi modelda muammolar umumiydan xususiyga o'tish orqali hal qilinadi?
+==== 
+#Bull's Eye modeli. 
+====
+Rolli model 
+====
+Bell – LaPadula modeli 
+====
+Mandatli model 
+
+
+++++
+
+
+Bull's Eye modeli nechta sathlardan iborat?
+==== 
+#4. 
+====
+5 
+====
+6 
+====
+7 
+
+
+++++
+
+
+Axborot xavfsizligi siyosati nimani ifodalaydi?
+==== 
+#Tashkilotning boshqaruv siyosatining rasmiy bayonotini ifodalaydi. 
+====
+Uskunalarning to'g'ri ishlashini ifodalaydi 
+====
+Texnik ta’minotning nazoratini ifodalaydi 
+====
+Dasturiy ta'minotning to'g'ri ishlashini ifodalaydi 
+
+
+++++
+
+
+AX siyosatiga rioya qilish uchun nima qilish kerakligi haqida batafsilroq bayonot beruvchi vosita nima?
+==== 
+#Standart. 
+====
+Protsedura 
+====
+Qo’llanma 
+====
+Nazorat 
+
+
+++++
+
+
+NIST 800-14 maxsus nashriga asosan axborot xavfsizligi siyosatining nechta turi mavjud?
+==== 
+#3. 
+====
+4 
+====
+6 
+====
+5 
+
+
+++++
+
+
+Quyidagilardan qaysi biri AX siyosatining eng yuqori darajasi hisoblanadi?
+==== 
+#Korxona axborot xavfsizligi dasturi siyosati. 
+====
+Muammoga xos xavfsizlik siyosati 
+====
+Tizimga xos xavfsizlik siyosatlari 
+====
+Barcha javoblar to’g’ri 
+
+
+++++
+
+
+Quyidagi mulohazalardan qaysi biri EISP uchun mos kelmaydi? 
+==== 
+#EISP to'g'ridan – to'g'ri missiya va qarash bayonotlarini qo'llab-quvvatlamasligi kerak. 
+====
+EISP tashkilotning barcha xavfsizlik sa'y-harakatlari uchun strategik yo'nalish, ko'lam va ohangni belgilaydi 
+====
+EISP axborot xavfsizligining turli sohalari, shu jumladan axborot xavfsizligi siyosatini ta'minlash, boshqa foydalanuvchilarning amaliyoti va mas'uliyati uchun mas'uliyat yuklaydi 
+====
+EISP axborot xavfsizligi dasturini ishlab chiqish, amalga oshirish va boshqarish talablarini boshqaradi 
+
+
+++++
+
+
+Xavfsizlik bo'yicha korporativ falsafaning umumiy ko'rinishi bu …?
+====  
+#EISP. 
+====
+NIST 800-14 
+====
+Bull's Eye 
+====
+To’g’ri javob yo’q 
+
+
+++++
+
+
+Xodimni ham, tashkilotni ham samarasizlik va noaniqlikdan himoya qiluvchi AX siyosati turini toping ?
+====
+#Muammoga xos xavfsizlik siyosati. 
+====
+Korxona axborot xavfsizligi dasturi siyosati 
+====
+Texnik ta’minotning nazoratini ifodalaydi 
+====
+Barcha javoblar to’g’ri 
+
+
+++++
+
+
+Quyidagilardan qaysi biri muammoga oid xavfsizlik siyosatiga mos kelmaydi?
+==== 
+#Tashkilotning barcha xavfsizlik sa'y-harakatlari uchun strategik yo'nalish, ko'lam va ohangni belgilash. 
+====
+Texnologiyaga asoslangan tizimdan foydalanish bo'yicha taxminlarni ifodalash 
+====
+Hujjatli nazoratni ta'minlaydigan jarayonlar va organlarni aniqlash 
+====
+Xodim qanday maqsadlarda texnologiyadan foydalanishi va foydalana olmasligi haqida umumiy tushuncha berish 
+
+
+++++
+
+
+Biznesning uzluksizligini rejalashtirish quyidagilardan qaysi biriga tegishli?
+==== 
+#ISSP. 
+====
+EISP 
+====
+NIST 800-14 
+====
+AXXB 
+
+
+++++
+
+
+“Foydalanuvchilar siyosatda ko'rsatilganidan tashqari maxsus foydalanish huquqlariga ega emaslar” ushbu mulohaza quyidagi javoblardan qaysi biriga tegishli?
+==== 
+#Ruxsat etilgan foydalanish. 
+====
+Maqsad bayonoti 
+====
+Taqiqlangan foydalanish 
+====
+Tizimlarni boshqarish 
+
+
+++++
+“Maqsad nima va amalga oshirish uchun kim javobgar” ushbu mulohaza quyidagi javoblardan qaysi biriga tegishli?
+==== 
+#Maqsad bayonoti. 
+====
+Siyosatni buzish 
+====
+Mas'uliyat chegaralari 
+====
+Ruxsat etilgan foydalanish 
+
+
+++++
+
+
+“jinoiy maqsadlarda foydalanish, shaxsiy foydalanish, buzuvchi foydalanish va haqoratli materiallarga ta’qiq qo’yish” ushbu mulohaza quyidagi javoblardan qaysi biriga tegishli?
+==== 
+#Taqiqlangan foydalanish. 
+====
+Maqsad bayonoti 
+====
+Ruxsat etilgan foydalanish 
+====
+Tizimlarni boshqarish 
+
+
+++++
+
+
+Foydalanuvchilar va adminlarning javobgarliklarini belgilash qaysi komponentaga tegishli?
+==== 
+#Tizimlarni boshqarish. 
+====
+Siyosatni buzish 
+====
+Ruxsat etilgan foydalanish 
+====
+Taqiqlangan foydalanish 
+
+
+++++
+
+
+Har bir qoidabuzarlik uchun jarimalar belgilash qaysi komponetaga tegishli?
+==== 
+#Siyosatni buzish. 
+====
+Tizimlarni boshqarish 
+====
+Maqsad bayonoti 
+====
+Mas'uliyat chegaralari 
+
+
+++++
+
+
+Axborot xavfsizligi siyosatini ishlab chiqish bosqichlari nechta?
+==== 
+#5. 
+====
+7 
+====
+3 
+====
+6 
+
+
+++++
+
+
+AX siyosatini ishlab chiqish loyihasi ko'lamining batafsil tavsifi qaysi bosqichga tegishli?
+==== 
+#Tekshiruv bosqichi. 
+====
+Tahlil bosqichi 
+====
+Loyihalash bosqichi 
+====
+Amalga oshirish bosqichi 
+
+
+++++
+
+
+Tashkilotning axborot xavfsizligi ehtiyojlarini hujjatlashtiradigan yangi yoki yaqinda xavflarni baholash yoki IT auditi qaysi bosqichga tegishli?
+==== 
+#Tahlil bosqichi. 
+====
+Tekshiruv bosqichi 
+====
+Loyihalash bosqichi 
+====
+Amalga oshirish bosqichi 
+
+
+++++
+
+
+Siyosatni monitoring qilish, saqlash va o'zgartirish uchun mas'ul siyosat ishlab chiqish qaysi komponentaga tegishli?
+==== 
+#Texnik xizmat ko'rsatish bosqichi. 
+====
+Amalga oshirish bosqichi 
+====
+Loyihalash bosqichi 
+====
+Tekshiruv bosqichi 
+
+
+++++
+
+
+VigilEnt siyosat markazi bu - … ?
+====
+#Siyosatni tasdiqlash va amalga oshirish bo'yicha markazlashtirilgan markaz. 
+====
+Siyosatni boshqarishga nisbatan ehtiyotkorlikning yuqori standartlari - ishdan bo'shatilgan xodimlarning da'volaridan himoya qilish 
+====
+Siyosatni monitoring qilish, saqlash va o'zgartirish uchun mas'ul siyosat ishlab chiqish guruhi 
+====
+Tashkilotning axborot xavfsizligi ehtiyojlarini hujjatlashtiradigan yangi yoki yaqinda xavflarni baholash yoki IT auditi. 
+
+
+++++
+
+
+Axborot xavfsizligi siyosatini ishlab chiqishning eng dastlabki bosqichi qaysi? 
+==== 
+#Tekshiruv bosqichi. 
+====
+Tahlil bosqichi 
+====
+Loyihalash bosqichi 
+====
+Texnik xizmat ko'rsatish bosqichi 
+
+
+++++
+
+
+AX siyosatining tahlil bosqichi quyidagilardan qaysi birini keltirib chiqaradi? 
+====
+#Tashkilotning axborot xavfsizligi ehtiyojlarini hujjatlashtiradigan yangi yoki yaqinda xavflarni baholash yoki IT auditi. 
+====
+Siyosatni ishlab chiqish loyihasi ko'lamining batafsil tavsifi 
+====
+Ta'sir qilingan manfaatdor jamoalarning ishtiroki 
+====
+Yuqori darajadagi siyosatni qo'llash uchun texnologiya ilovasini yo'naltirish 
+
+
+++++
+
+
+Har qanday axborot xavfsizligi dasturining muvaffaqiyatli faoliyati asosan nimaga bog’liq?
+==== 
+#AX siyosatiga. 
+====
+O’z vaqtida o’tkazilgan audit 
+====
+Yaxshi o’rnatilgan DT 
+====
+Xodimlarning bilim saviyasiga 
+
+
+++++
+
+
+Axborot resurslarini himoya qilish bo'yicha ijrochi qo'llanma bu - ……. ?
+====
+#NIST. 
+====
+ISSP 
+====
+EISP 
+====
+AXXB 
+
+
+++++
+
+
+AX siyosati uchun noto’g’ri berilgan qatorni toping?
+====  
+#AX siyosati doimiy o’zgartirilib turilishi kerak. 
+====
+AX siyosati hech qachon qonunga zid bo'lmasligi kerak 
+====
+AX siyosati agar e'tiroz bildirilsa, sudda turishga qodir bo'lishi kerak 
+====
+AX siyosat to'g'ri qo'llab-quvvatlanishi va boshqarilishi kerak 
+
+
+++++
+
+
+Server sifatida ishlatiladigan kompyuterlar, ish stoli kompyuterlari va jarayonlarni boshqarish va ishlab chiqarish tizimlari uchun ishlatiladigan tizimlar Bull's Eye modelining qaysi sathiga tegishli?
+====  
+#Tizimlar. 
+====
+Siyosat 
+====
+Tarmoqlar 
+====
+Ilovalar 
+
+
+++++
+
+
+“Umumiy tarmoqlardagi tahdidlar va tashkilotning tarmoq infratuzilmasi bilan uchrashadigan joy” ushbu mulohaza Bull's Eye modelining qaysi sathiga tegishli?
+==== 
+#Tarmoqlar. 
+====
+Siyosat 
+====
+Tizimlar 
+====
+Ilovalar 
+
+
+++++
+
+
+Buqaning ko'zlari diagrammasidagi tashqi qatlam Bull's Eye modelining qaysi sathiga tegishli?
+==== 
+#Siyosat. 
+====
+Tarmoqlar 
+====
+Tizimlar 
+====
+Ilovalar 
+
+
+++++
+
+
+Quyidagi mulohazalardan qaysi biri AX siyosatiga mos kelmaydi?
+==== 
+#AX siyosati uskuna yoki dasturiy ta'minotning to'g'ri ishlashini belgilab berishi kerak. 
+====
+AX siyosati tashkilotda maqbul va qabul qilinishi mumkin bo'lmagan xatti-harakatlarni belgilaydigan qoidalar to'plami 
+====
+AX siyosati tashkilotning boshqaruv siyosatining rasmiy bayonotini ifodalaydi 
+====
+AX siyosati nomaqbul xatti-harakatlar uchun jazolarni belgilashi va apellyatsiya jarayonini belgilashi kerak  
+
+
+++++
+
+
+Axborot xavfsizligi standarti bu - ……. ?
+====
+#AX siyosatiga rioya qilish uchun nima qilish kerakligi haqida batafsilroq berilgan bayonotlar. 
+====
+Axborot tizimlarining texnik ta’minoti 
+====
+Axborot tizimlarining dasturiy ta’minoti 
+====
+Qurilmalardagi nosozliklarni to’g’rilash yo’riqnomasi 
+
+
+++++
+
+
+Quyidagi mulohazalardan qaysi biri Korxona axborot xavfsizligi siyosati(EISP)ga tegishli emas?
+==== 
+#EISP AX siyosatiga rioya qilish uchun nima qilish kerakligi haqida batafsilroq bayonet. 
+====
+EISP tashkilotning barcha xavfsizlik sa'y-harakatlari uchun strategik yo'nalish, ko'lam va ohangni belgilaydi 
+====
+EISP axborot xavfsizligining turli sohalari, shu jumladan axborot xavfsizligi siyosatini ta'minlash, boshqa foydalanuvchilarning amaliyoti va mas'uliyati uchun mas'uliyat yuklaydi 
+====
+EISP axborot xavfsizligi dasturini ishlab chiqish, amalga oshirish va boshqarish talablarini boshqaradi 
+
+
+++++
+
+
+Quyidagi mulohazalardan qaysi biri Muammoga oid xavfsizlik siyosati(ISSP)ga tegishli emas?
+==== 
+#Tashkilotning barcha a'zolari tomonidan taqsimlangan xavfsizlik bo'yicha to'liq ifodalangan mas'uliyat. 
+====
+ISSP Xodim qanday maqsadlarda texnologiyadan foydalanishi va foydalana olmasligi haqida umumiy tushuncha berish 
+====
+ISSP Huquqiy ta'qib qilish uchun asos sifatida taqdim etilmasligi kerak 
+====
+ISSP Xodimni ham, tashkilotni ham samarasizlik va noaniqlikdan himoya qiladi 
+
+
+++++
+
+
+Samarali ISSP bu - …… ?
+====
+#Texnologiyaga asoslangan tizimdan foydalanish bo'yicha taxminlarni ifodalash. 
+====
+Axborot texnologiyalari xavfsizligi elementlari 
+====
+Axborot texnologiyalari xavfsizligiga ehtiyoj 
+====
+Axborot texnologiyalari xavfsizligi bo'yicha mas'uliyat va roller 
+
+
+++++
+
+
+Quyidagi komponentalardan qaysi biri ISSP komponentlari emas?
+==== 
+#Xavfsizlik bo'yicha korporativ falsafaning umumiy ko'rinishi. 
+====
+Maqsad bayonoti(Statement of Purpose) 
+====
+Ruxsat etilgan foydalanish 
+====
+Tizimlarni boshqarish 
+
+
+++++
+
+
+ISSP yaratish/boshqarish uchun nechta umumiy yondashuv mavjud?
+==== 
+#3. 
+====
+4 
+====
+2 
+====
+5 
+
+
+++++
+
+
+ISSP yaratish/boshqarish uchun umumiy yondashuvga mos kelmaydigan javobni toping?
+====  
+#Yuqori darajadagi siyosatni qo'llash uchun ISSP ilovasini yo'naltirish. 
+====
+Muayyan masalalar uchun moslashtirilgan individual mustaqil ISSP hujjatlarini yaratish 
+====
+Barcha masalalarni qamrab oluvchi yagona ISSP hujjatini yaratish 
+====
+Shaxsiy masalalar bo'yicha aniq tafsilotlarni ko'rib chiqishda umumiy siyosat yaratish/boshqarishni birlashtiruvchi modulli ISSP hujjatini yaratish 
+
+
+++++
+
+
+Axborot xavfsizligi siyosatini ishlab chiqishning yakuniy bosqichini ko’rsating ?
+====
+#Texnik xizmat ko'rsatish bosqichi. 
+====
+Tekshiruv bosqichi 
+====
+Tahlil bosqichi 
+====
+Loyihalash bosqichi 
+
+
+++++
+
+
+Axborot xavfsizligi siyosatining amalga oshirish bosqichi to’g’ri ko’rsatilgam javobni toping?
+====  
+#Chet – el nashriyotlari. 
+====
+Internet 
+====
+NIST kabi hukumat saytlari 
+====
+Professional adabiyot  
+
+
+++++
+
+
+AX siyosatini monitoring qilish, saqlash va o'zgartirish uchun mas'ul siyosat ishlab chiqish guruhi qaysi bosqichni amalga oshiradi?
+==== 
+#Texnik xizmat ko'rsatish. 
+====
+Amalga oshirish 
+====
+Tahlil 
+====
+Tekshiruv 
+
+
+++++
+Siyosatni tasdiqlash va amalga oshirish bo'yicha markazlashtirilgan avtomatik vosita bu - ……. ?
+====
+#VigilEnt. 
+====
+EISP 
+====
+ISSP 
+====
+NIST 
+
+
+++++
+
+
+AX siyosatini tarqatish vositasi noto’g’ri yozilgan qatorni toping?
+====  
+#OAV. 
+====
+Siyosatni ommaviy e'lonlar taxtasida joylashtirish 
+====
+E-mail 
+====
+Intranet 
+
+
+++++
+
+
+Texnik xizmat ko'rsatish bosqichi bu - …?
+====  
+#Siyosatni monitoring qilish, saqlash va o'zgartirish uchun mas'ul siyosat ishlab chiqish. 
+====
+Asosiy ma'lumotnoma materiallarini to'plash 
+====
+Tashkilotning axborot xavfsizligi ehtiyojlarini hujjatlashtirish 
+====
+Yuqoridagi javoblarning hammasi to’g’ri 
+
+
+++++
+
+
+Mavjud AX siyosati hamda asosiy ma'lumotnoma materiallarini to'plash AX siyosatining qaysi bosqichiga tegishli?
+==== 
+#Tahlil bosqichi. 
+====
+Tekshiruv bosqichi 
+====
+Loyihalash bosqichi 
+====
+Amalga oshirish bosqichi 
+
+
+++++
+
+
+Tizimga xos xavfsizlik siyosati muayyan tizimlar, texnologiyalar va ilovalarni sozlash bo'yicha qanday ko'rsatma va tartibni taqdim etmaydi?
+==== 
+#To’g’ri javob yo’q. 
+====
+Hujumlarni aniqlash tizimlari(IDS) 
+====
+Xavfsizlik devori konfiguratsiyasi 
+====
+Ish stantsiyasining konfiguratsiyasi 
+
+
+++++
+
+
+Quyidagilardan qaysi biri ISSP ga tegishli emas?
+==== 
+#Xavfsizlik devori konfiguratsiyasi. 
+====
+Xavfsizlik nazoratini buzish/sinovdan o'tkazishga qarshi taqiqlar 
+====
+Kompaniyaga tegishli tizimlardan uyda foydalanish 
+====
+Kompaniya tarmoqlarida shaxsiy jihozlardan foydalanish 
+
+
+++++
+
+
+Tashkilotning barcha xavfsizlik sa'y-harakatlari uchun strategik yo'nalish, ko'lam va ohangni belgilash quyidagilardan qaysi birining vazifasiga kiradi?
+==== 
+#EISP. 
+====
+NIST 
+====
+ISSP 
+====
+VigilEnt 
+
+
+++++
+
+
+Bull's Eye modelining ichki sathi qanday nomlanadi?
+==== 
+#Ilova. 
+====
+Siyosat 
+====
+Tarmoq 
+====
+Tizim 
+
+
+++++
+
+
+Bull's Eye modeli bu - ……. ?
+====
+#Javoblarning barchasi to’g’ri. 
+====
+Murakkab o'zgarishlarga ustuvorlik berishning tasdiqlangan mexanizmi 
+====
+Muammolar umumiydan xususiyga o'tish orqali hal qilish 
+====
+Shaxsiy muammolar o'rniga tizimli yechimlarga e'tibor qaratish 
+
+
+++++
+
+
+Axborot yoki axborot tizimi uchun har qanday potentsial xavf bu - …….?
+====  
+#Tahdid. 
+====
+Hujum 
+====
+Zaiflik 
+====
+Risk 
+
+
+++++
+
+
+Tahdid agenti bu - ……. ?
+====
+#Xavf tug'dirishi mumkin bo'lgan manba. 
+====
+Tashkilot tomonidan baholanadigan resurs 
+====
+Foydalanish mumkin bo'lgan axborot tizimining zaifligi 
+====
+Istalmagan hodisaning yuzaga kelish ehtimoli 
+
+
+++++
+
+
+Xavflarni baholash, shuningdek, paydo bo'ladigan tahdidlar quyidagilardan qaysi birini o’z ichiga olmaydi?
+==== 
+#Xavfsizlik xabari. 
+====
+Yangi texnologiya 
+====
+Madaniyatdagi o'zgarish 
+====
+Texnologiyadan ruxsatsiz foydalanish (masalan, simsiz texnologiyalar, soxta modemlar, PDA - Shaxsiy raqamli yordamchilar, litsenziyasiz dasturiy ta'minot) 
+
+
+++++
+
+
+Quyidagilardan qaysi biri tahdidga misol bo’lolmaydi?
+==== 
+#Server xonasining talabga javob bermasligi. 
+====
+Ruxsatsiz kirish 
+====
+Uskuna xatosi 
+====
+Asosiy xodimlarni yo'qotish 
+
+
+++++
+
+
+Tahdidlarni aniqlash uchun kirish manbasini ko’rsating ?
+====
+#Javoblarning barchasi to’g’ri. 
+====
+Tizim ma'murlari 
+====
+Auditorlar 
+====
+Xavfsizlik xodimlari 
+
+
+++++
+
+
+Buzg’unchilik bu - ……?
+====
+#Tahdid. 
+====
+Hujum 
+====
+Zaiflik 
+====
+Risk 
+
+
+++++
+
+
+Hujum bu - …….?
+====  
+#Zaiflikdan foydalanib, zarar etkazishni maqsad qilgan harakat. 
+====
+Xavf tug'dirishi mumkin bo'lgan manba 
+====
+Istalmagan hodisaning yuzaga kelish ehtimoli 
+====
+Axborot yoki axborot tizimi uchun har qanday potentsial xavf 
+
+
+++++
+
+
+Risklarni tahlil qilishning nechta turi mavjud?
+==== 
+#2. 
+====
+3 
+====
+5 
+====
+4 
+
+
+++++
+
+
+Tashkilot tomonidan baholanadigan resurs nima deb ataladi?
+==== 
+#Aktiv. 
+====
+Tahdid agenti 
+====
+Risk 
+====
+Qarshi choralar va himoya choralari 
+
+
+++++
+
+
+Istalmagan hodisaning yuzaga kelish ehtimoli nima deb ataladi?
+==== 
+#Risk. 
+====
+Hujum 
+====
+Zaiflik 
+====
+Tahdid 
+
+
+++++
+
+
+Risklarni tahlil qilishning qo'shimcha afzalliklari noto’g’ri ko’rsatilgan qatorni toping?
+====  
+#Tabiiy xavflarni bartaraf etish jarayoni uchun qo'llanilishi mumkin
+====
+Sug'urta va javobgarlik uchun qo'llanilishi mumkin. 
+====
+Qarshi choralar, yangi nazorat va tartiblarni amalga oshirish uchun qo'llanilishi mumkin. 
+====
+Xavfsizlik haqida xabardorlik dasturlarini qonuniylashtirish uchun qo'llanilishi mumkin. 
+
+
+++++
+
+
+Miqdoriy risklarni tahlil qilish nechta usul yordamida amalga oshiriladi?
+==== 
+#2. 
+====
+3 
+====
+4 
+====
+5 
+
+
+++++
+
+
+Qarshi choralar va himoya choralari bu - …….?
+====  
+#Potentsial xavfni kamaytiradigan tashkilot. 
+====
+Riskning qolgan qismi 
+====
+Tashkilot tomonidan baholanadigan resurs (jismoniy yoki mantiqiy) 
+====
+To’g’ri javob yo’q 
+
+
+++++
+
+
+Nazoratni yumshatish konseptsiyasi to’g’ri berilgan ifodani toping ?
+====
+#Qoldiq Risk = Umumiy Zaiflik – Qarshi choralar. 
+====
+Qoldiq Risk = Umumiy Risk – Tahdid 
+====
+Qoldiq Risk = Umumiy Risk – Zaiflik 
+====
+Qoldiq Risk = Umumiy Zaiflik – Tahdid 
+
+
+++++
+
+
+Risk tahlili bu - …….?
+====  
+#Javoblarning barchasi to’g’ri. 
+====
+Biznes jarayonlari va axborot tizimlariga tahdidlarni aniqlash
+====
+Xavfni kamaytirish uchun maxsus qarshi choralarni amalga oshirishni tahlillash 
+====
+Yaxshiroq nazoratni talab qilishi mumkin bo'lgan maxsus vaziyatlarni tahlillash 
+
+
+++++
+
+
+“Risklarni …….. tahdidlar va zaifliklarni aniqlash va nazorat qilish orqali xavflarni kamaytiradi.” nuqtalar o’rniga mos javobni toping?
+====  
+#Boshqarish. 
+====
+Tahlil qilish 
+====
+Baholash 
+====
+Sinovdan o’tkazish 
+
+
+++++
+
+
+“Risklarni tahlil qilish tashkilotning resurslari va siyosati to'g'ri yo'naltirilganligini ta'minlash uchun muhimdir.” nuqtalar o’rniga mos javobni toping?
+====  
+#Tahlil qilish. 
+====
+Baholash 
+====
+Boshqarish 
+====
+Sinovdan o’tkazish 
+
+
+++++
+
+
+Kiberxavfsizlik nima?
+==== 
+#Tarmoqli tizimlarga kirishni va ular tarkibidagi ma'lumotlarni nazorat qilish qobiliyati. 
+====
+Bulutli tizimlarga kirish va ular tarkibini o’rganish 
+====
+Soxtalikni aniqlash 
+====
+Tizimlarda mavjuda xatoliklarni tekshirish 
+
+
+++++
+
+
+Maxfiylik – bu… qobiliyati. ?
+====  
+#Tizimning ruxsat etilgan foydalanish uchun ma'lumot tarqatishni cheklash
+====
+Yozilgan va xabar qilingan ma'lumotlarning haqiqiyligini, to'g'riligini va haqiqiyligini saqlash qobiliyati.
+====
+Funktsional imkoniyatlarni o'z vaqtida yetkazib berish. 
+====
+Tarmoqli tizimlarga kirishni va ular tarkibidagi ma'lumotlarni nazorat qilish qobiliyati.  
+
+
+++++
+
+
+Butunlik - bu… ?
+====
+#Yozilgan va xabar qilingan ma'lumotlarning haqiqiyligini, to'g'riligini va haqiqiyligini saqlash qobiliyati 
+====
+Funktsional imkoniyatlarni o'z vaqtida yetkazib berish. 
+====
+Tizimning ruxsat etilgan foydalanish uchun ma'lumot tarqatishni cheklash qobiliyati. 
+====
+Tarmoqli tizimlarga kirishni va ular tarkibidagi ma'lumotlarni nazorat qilish qobiliyati. 
+
+
+++++
+
+
+Xavfsizlikni rejalashtirishning asosiy maqsadi?
+==== 
+#Raqibning muvaffaqiyatli hujumini oldini olish
+====
+Xodimlar o’rtasidagi nizoni oldini olish. 
+====
+Tashkilotga uyushtiriladigan hujumlarni aniqlash. 
+====
+Hech qanaqa maqsadi yo’q. 
+
+
+++++
+
+
+Internetda ishlaydigan axborot tizimlari tomonidan qayta ishlangan, saqlanadigan va tashiladigan ma'lumotlarga tahdidlarni bartaraf etish orqali nimalar himoya qilinadi? 
+====
+#Axborot aktivlari
+====
+Axborotlar. 
+====
+Aktivlar. 
+====
+Maxfiylik. 
+
+
+++++
+
+
+Axborot xavfsizligida nimalar himoya qilinadi? 
+====
+#Qog’oz hujjatlar, raqamli va intellektual mulk, og’zaki yoki vizual aloqalar 
+====
+Tarmoq uskunlari. 
+====
+Dasturiy ta’minot. 
+====
+Qog’oz hujjatlar va tarmoq uskunalari. 
+
+
+++++
+
+
+Kiberxavfsizlik aktivlarini himoya qilishga nimalar kiradi? 
+====
+#Tarmoq uskunalari, dasturiy ta’mnot, izolyatsiya qilingan yoki tarmoqqa ulangan tizimlarda qayta ishlanadigan va saqlanadigan ma’lumotlar
+====
+Raqamli va intellektual mulk. 
+====
+Og’zaki va vizual aloqalar. 
+====
+Dasturiy ta’minot. 
+
+
+++++
+
+
+Xavfsizlik siyosati nima?
+==== 
+#Mas'uliyatli qaror qabul qiluvchilarning kompaniyaning muhim jismoniy va axborot aktivlarini himoya qilish mexanizmi haqidagi bayonoti 
+====
+Tarmoqli tizimlarga kirishni va ular tarkibidagi ma'lumotlarni nazorat qilish qobiliyati. 
+====
+Funktsional imkoniyatlarni o'z vaqtida yetkazib berish. 
+====
+To’g’ri javob yo’q. 
+
+
+++++
+
+
+Xavfsizlik siyosati qay shaklda bo’lishi kerak?
+==== 
+#Yozma 
+====
+Og’zaki. 
+====
+Yozma va og’zaki. 
+====
+To’g’ri javob yo’q. 
+
+
+++++
+
+
+….. boshqaruv organi tomonidan qabul qilinadi va rasmiy ravishda faqat tegishli boshqaruv sohasiga qo'llaniladi. Nuqtalar o’rniga kerakli javobni toping.?
+==== 
+#Kiberxavfsizlik siyosati
+====
+Axborot xavfsizligi. 
+====
+Axborot. 
+====
+Risk. 
+
+
+++++
+
+
+Davlat kiberxavfsizligi siyosati nimalarni o’z ichiga oladi?
+==== 
+#Davlat o'z fuqarolari va ehtimol o'z domenida faoliyat yuritadigan xorijiy korxonalarni qamrab oladi
+====
+Faqat korporatsiyaning ish yoki boshqa yuridik kelishuvlari bo'lgan xodimlarga nisbatan qo'llanilishi. 
+====
+Davlat kiberxavfsizlik siyosati mavjud emas. 
+====
+Ayrim hujjatlarga amal qilish. 
+
+
+++++
+
+
+Korporativ kiberxavfsizlik siyosati nima?
+==== 
+#Faqat korporatsiyaning ish yoki boshqa yuridik kelishuvlari bo'lgan xodimlarga nisbatan qo'llanilishi 
+====
+Davlat o'z fuqarolari va ehtimol o'z domenida faoliyat yuritadigan xorijiy korxonalarni qamrab olishi. 
+====
+Ayrim hujjatlarga amal qilish. 
+====
+To’g’ri javob yo’q. 
+
+
+++++
+
+Xavfsizlik siyosatini ishlab chiqish –bu ……?
+==== 
+#Tashkilot qoidalari ta'sir qiladigan barcha tashkilotning birgalikdagi yoki jamoaviy operatsiyasi
+====
+Jamoa hujjatning qonuniy nuqtalarini ta'minlash va kompaniyaning ma'lum bir maqsadga muvofiqligini ko'rsatish. 
+====
+Davlat o'z fuqarolari va ehtimol o'z domenida faoliyat yuritadigan xorijiy korxonalarni qamrab olishi. 
+====
+To’g’ri javob yo’q. 
+
+
+++++
+
+
+Siyosat yaratishga qaysi ob’yektlar kiradi?
+==== 
+#Kengash, IT jamoa, huquqiy guruh, HR guruh 
+====
+HR guruh, kengash. 
+====
+Huquqiy guruh, IT jamoa. 
+====
+Siyosat yaratsih uchun hech qanday ob’yekt kerak emas. 
+
+
+++++
+
+
+Siyosat yaratishga kiruvchi kengashni vazifasi -?
+==== 
+#Kompaniya boshqaruv a'zolari biznesning g'ayritabiiy yoki g'ayritabiiy holatiga javoban siyosatni qayta ko'rib chiqish bo'yicha o'z maslahatlarini berishlari kerak 
+====
+Odatda har qanday kompaniyadagi siyosat ma'lumotlarining eng katta iste'molchilari hisoblanadi, chunki u kompyuter tizimidan foydalanish standartlarini, xususan, xavfsizlik nazoratini o'z ichiga oladi. 
+====
+Hujjatning qonuniy nuqtalarini ta'minlaydi va kompaniyaning ma'lum bir maqsadga muvofiqligini ko'rsatadi. 
+====
+Odatda har bir xodimdan belgilangan siyosatni o'qigan va tushungan sertifikatlangan T & C sertifikatini oladi, chunki xodimlarning intizomni joriy etish uchun mukofot va jazo bilan bog'liq masalalari bilan shug'ullanadi. 
+
+
+++++
+
+
+Siyosat yaratishga kiruvchi IT jamoasini vazifasi -?
+==== 
+#Odatda har qanday kompaniyadagi siyosat ma'lumotlarining eng katta iste'molchilari hisoblanadi, chunki u kompyuter tizimidan foydalanish standartlarini, xususan, xavfsizlik nazoratini o'z ichiga oladi 
+====
+Kompaniya boshqaruv a'zolari biznesning g'ayritabiiy yoki g'ayritabiiy holatiga javoban siyosatni qayta ko'rib chiqish bo'yicha o'z maslahatlarini berishlari kerak. 
+====
+Hujjatning qonuniy nuqtalarini ta'minlaydi va kompaniyaning ma'lum bir maqsadga muvofiqligini ko'rsatadi. 
+====
+Odatda har bir xodimdan belgilangan siyosatni o'qigan va tushungan sertifikatlangan T & C sertifikatini oladi, chunki xodimlarning intizomni joriy etish uchun mukofot va jazo bilan bog'liq masalalari bilan shug'ullanadi. 
+
+
+++++
+
+
+Siyosat yaratishga kiruvchi huquqiy guruhni vazifasi -?
+==== 
+#Hujjatning qonuniy nuqtalarini ta'minlaydi va kompaniyaning ma'lum bir maqsadga muvofiqligini ko'rsatadi
+====
+Odatda har qanday kompaniyadagi siyosat ma'lumotlarining eng katta iste'molchilari hisoblanadi, chunki u kompyuter tizimidan foydalanish standartlarini, xususan, xavfsizlik nazoratini o'z ichiga oladi. 
+====
+Kompaniya boshqaruv a'zolari biznesning g'ayritabiiy yoki g'ayritabiiy holatiga javoban siyosatni qayta ko'rib chiqish bo'yicha o'z maslahatlarini berishlari kerak. 
+====
+Odatda har bir xodimdan belgilangan siyosatni o'qigan va tushungan sertifikatlangan T & C sertifikatini oladi, chunki xodimlarning intizomni joriy etish uchun mukofot va jazo bilan bog'liq masalalari bilan shug'ullanadi. 
+
+
+++++
+
+
+Siyosat yaratishga kiruvchi HR guruhni vazifasi -?
+==== 
+#Odatda har bir xodimdan belgilangan siyosatni o'qigan va tushungan sertifikatlangan T & C sertifikatini oladi, chunki xodimlarning intizomni joriy etish uchun mukofot va jazo bilan bog'liq masalalari bilan shug'ullanadi 
+====
+Odatda har qanday kompaniyadagi siyosat ma'lumotlarining eng katta iste'molchilari hisoblanadi, chunki u kompyuter tizimidan foydalanish standartlarini, xususan, xavfsizlik nazoratini o'z ichiga oladi. 
+====
+Kompaniya boshqaruv a'zolari biznesning g'ayritabiiy yoki g'ayritabiiy holatiga javoban siyosatni qayta ko'rib chiqish bo'yicha o'z maslahatlarini berishlari kerak. 
+====
+Hujjatning qonuniy nuqtalarini ta'minlaydi va kompaniyaning ma'lum bir maqsadga muvofiqligini ko'rsatadi. 
+
+
+++++
+
+
+Xavfsizlik siyosatini ishlab chiqish bosqichlarini toping
+==== 
+#Talablarni to’plash, takliflarni o’rganish, siyosatni ishlab chiqish, tasdiqlash bosqichi, siyosatni nashr etish
+====
+Siyosatni nash etish, tasdiqlash bosqichi. 
+====
+Talablarni o’rganish, takliflarni o’rganish. 
+====
+Siyosatni ishlab chiqish, siyosatni nashr etish 
+
+
+++++
+
+
+Siyosat auditoriyasi bu………?
+==== 
+#Ishchilar toifasi, IT vakillari, boshqaruv sohasidagilar, huquq sohasidagilar, sarmoyadorlar
+====
+IT vakillari, huquq sohasidagilar. 
+====
+Sarmoyadorlar. 
+====
+Boshqaruv sohasidagilar. 
+
+
+++++
+
+
+Har bir tashkilot odatda nechta siyosatga ega bo’lishi kerak?
+==== 
+#3. 
+====
+2 
+====
+1 
+====
+4 
+
+
+++++
+
+
+Xavfsizlik siyosatining toifalarini ko’rsating. 
+====
+#Jismoniy xavfsizlik, xodimlarni boshqarish, uskuna va dasturiy ta’minot 
+====
+Xodimlarni boshqarish, IT vakillari. 
+====
+Uskuna va dasturiy ta’minot, ishchilar toifasi. 
+====
+IT vakillari, sarmoyadorlar. 
+
+
+++++
+
+
+Jismoniy xavfsizlik nima?
+==== 
+#Xodimlarni ham, rahbariyatni ham jismoniy aktivlarni himoya qilish uchun qanday himoya vositalarini qo'llashni taqozo etadi, eshiklar, kirish joyi, kuzatuv, signalizatsiya va boshqalarni o'z ichiga oladi
+====
+Ular o'z xodimlariga har kungi ish faoliyatini xavfsiz tarzda qanday olib borish yoki boshqarishni aytib berishlari kerak, masalan, parolni boshqarish, maxfiy axborot xavfsizligi va boshqalar. 
+====
+Administratorga qanday texnologiya turidan foydalanishni, tarmoqni boshqarish nima va qanday sozlanishi kerakligini ko'rsatib beradi va tizim va tarmoq ma'murlariga qo'llaniladi. 
+====
+To’g’ri javob yo’q. 
+
+
+++++
+
+
+Xodimlarni boshqarish nima?
+==== 
+#Ular o'z xodimlariga har kungi ish faoliyatini xavfsiz tarzda qanday olib borish yoki boshqarishni aytib berishlari kerak, masalan, parolni boshqarish, maxfiy axborot xavfsizligi va boshqalar 
+====
+Xodimlarni ham, rahbariyatni ham jismoniy aktivlarni himoya qilish uchun qanday himoya vositalarini qo'llashni taqozo etadi, eshiklar, kirish joyi, kuzatuv, signalizatsiya va boshqalarni o'z ichiga oladi. 
+====
+Administratorga qanday texnologiya turidan foydalanishni, tarmoqni boshqarish nima va qanday sozlanishi kerakligini ko'rsatib beradi va tizim va tarmoq ma'murlariga qo'llaniladi. 
+====
+To’g’ri javob yo’q. 
+
+
+++++
+
+
+Birinchi raqamli kompyuter qachon yaratilgan?
+==== 
+#1943-yilda
+====
+1940-yilda. 
+====
+1942-yilda. 
+====
+1945-yilda. 
+
+
+++++
+
+
+Kompyuter viruslari nazariyasi birinchi marta nechanchi yilda ommaga oshkor qilingan?
+==== 
+#1949-yilda
+====
+1950-yilda. 
+====
+1945-yilda. 
+====
+1947-yilda. 
+
+
+++++
+
+
+1950-yillarning oxirlarida nima paydo bo’ldi?
+==== 
+#Telefon orqali qo’ng’iroq qilish 
+====
+Kiberjinoyat boshlangan. 
+====
+Kiberxavfsizlik fan sifatida kiritildi. 
+====
+Hech qanaqa yangilik paydo bo’lmadi. 
+
+
+++++
+
+
+Birinchi marta zararli xakerlik haqida qayerda yozilgan edi?
+==== 
+#Massachustes texnologiya institutining gazetasida 
+====
+New York times gazetasida. 
+====
+Oxford universiteti gazetasida. 
+====
+Bu haqida hech qayerda e’lon berilmagan. 
+
+
+++++
+
+
+Qachon IBM maktab o’quvchilarini yangi kompyuterini sinab ko’rishga taklif qilgan?
+==== 
+#1967-yilda 
+====
+1963-yilda. 
+====
+1969-yilda. 
+====
+1965-yilda. 
+
+
+++++
+
+
+“Creeper” nomli komyuter dasturi kim tomonidan yaratilgan?
+==== 
+#Bob Tomas
+====
+Rey Tomilson. 
+====
+Stiv Jobs. 
+====
+Stiv Voznak. 
+
+
+++++
+
+
+Elektron pochta ixtirochisi kim?
+==== 
+#Rey Tomilson
+====
+Bob Tomas. 
+====
+Stiv Voznak. 
+====
+Stiv Jobs. 
+
+
+++++
+
+
+Qachon va kim tomonidan “Ark”ni operatsion tizimlarni ishlab chiqish uchun ishlatiladigan raqamli uskunalar korporatsiyasining kompyuteriga buzib kirilgan va nusxa ko’chirilgan?
+==== 
+#1979-yilda Kevin Mitnik tomonidan
+====
+1978-yilda Stiv Jobs tomonidan. 
+====
+1976-yilda Bob Tomas tomonidan. 
+====
+1974-yilda Rey Tomilson tomonidan. 
+
+
+++++
+
+
+….. troyan otlari va kompyuter viruslari birinchi marta ishlatilgan. Nuqtalar o’rniga mos javobni toping?
+==== 
+#1980-yildan
+====
+1981-yildan. 
+====
+1983-yildan. 
+====
+1985-yildan. 
+
+
+++++
+
+
+KGB ga ma’lumot sotmoqchi bo’lgan 400 ta harbiy kompyuterni, shu jumladan Pentagonning asosiy ramkalarini buzgan shaxs kim?
+==== 
+#Markus Xess Berkli
+====
+Rey Tomilson. 
+====
+Bob Tomas. 
+====
+Stiv Voznak. 
+
+
+++++
+
+
+1987-yilda nimani tug’ilgan yili hisoblanadi?
+==== 
+#antivirusning
+====
+virusning. 
+====
+telefoning. 
+====
+kompyuterning 
+
+
+++++
+
+
+Dastlabki …… dasturlari noyob skanerlardan iborat bo'lib, ular noyob virus kodlari ketma -ketligini aniqlash uchun kontekstli qidiruvlarni amalga oshirdi. Nuqtalar o’rniga mos javobni toping.
+====
+#antivirus
+====
+virus. 
+====
+xavfsiz. 
+====
+telefon. 
+
+
+++++
+
+
+Polimorfik viruslar qanaqa viruslar?
+==== 
+#Aniqlanmasligi uchun asl algoritm saqlanib qolganda mutatsiyaga uchragan kod. 
+====
+Oddiy virus
+====
+Komyuterlarni butunlay ishdan chiqaradigan viruslar. 
+====
+Bunaqa virus yo’q. 
+
+
+++++
+
+
+EICAR(Yevropa kompyuter antiviruslarini tadqiq qilish institute) qachon tashkil etilgan?
+==== 
+#1990-yilda
+====
+1991-yilda. 
+====
+1993-yilda. 
+====
+1995-yilda. 
+
+
+++++
+
+
+Dastlabki antiviruslar nimaga asoslangan edi?
+==== 
+#imzoga
+====
+kodlarga. 
+====
+bazaga. 
+====
+hech narsaga asoslanmagan. 
+
+
+++++
+
+
+Birinchi antivirus qachon bo’ldi?
+==== 
+#1992-yilda
+====
+1991-yilda. 
+====
+1993-yilda. 
+====
+1995-yilda. 
+
+
+++++
+
+
+Xavfsizlik devori dasturini kim ishlab chiqgan?
+==== 
+#NASA tadqiqotchilaridan biri
+====
+Oxford universtiteti talabalari. 
+====
+New York times muxbiri. 
+====
+Massachustes texnologiya institute talabasi. 
+
+
+++++
+
+
+1999-yilda qaysi virus tarqaldi?
+==== 
+#Melissa
+====
+Friday. 
+====
+Troyan otlari. 
+====
+Chuvalchang viruslar. 
+
+
+++++
+
+
+Melissa virusi qay tarzda tarqalgan?
+==== 
+#Foydalanuvchining kompyuteriga Word hujjati orqali kirgan
+====
+Foydalanuvchining kompyuteriga exe formati orqali kirgan. 
+====
+Foydalanuvchining kompyuteriga tashqi qurilma orqali kirgan. 
+====
+Foydalanuvchining kompyuteriga zarar yetkazmagan. 
+
+
+++++
+
+
+Qachon OpenAntivirus Project birinchi ochiq kodli antivirus dvigateli paydo bo’lgan?
+==== 
+#2000-yilda
+====
+2002-yilda. 
+====
+2001-yilda. 
+====
+2003-yilda. 
+
+
+++++
+
+
+Kim AQSh Milliy xavfsizlik agentligining maxfiy ma'lumotlarini nusxa ko'chirdi va tarqatdi?
+==== 
+#Edvard Snouden
+====
+Markus Xess Berkli. 
+====
+Rey Tomilson. 
+====
+Bob Tomas. 
+
+
+++++
+
+
+2017-yilda WannaCry ransomware bir kunda nechta kompyuterni zararlagan?
+==== 
+#230 mingta
+====
+233 mingta. 
+====
+235 mingta. 
+====
+240 mingdan ortiq. 
+
+
+++++
+
+
+Tahdid nima?
+==== 
+#Jinoyatchi tomonidan sodir etilishi mumkin yoki bo'lmasligi mumkin bo'lgan potentsial harakat
+====
+Hujumni o'z ichiga olgan texnik tafsilotlarni bildiradi. 
+====
+Ekspluatatsiyaning muvaffaqiyatli bo'lishiga imkon beradigan tizimning o'ziga xos xususiyati. 
+====
+Jinoyat qonunida nazarda tutilgan ijtimoiy xavfli qilmish. 
+
+
+++++
+
+
+Ekspluatatsiya nima?
+==== 
+#Hujumni o'z ichiga olgan texnik tafsilotlarni bildiradi 
+====
+Jinoyatchi tomonidan sodir etilishi mumkin yoki bo'lmasligi mumkin bo'lgan potentsial harakat. 
+====
+Ekspluatatsiyaning muvaffaqiyatli bo'lishiga imkon beradigan tizimning o'ziga xos xususiyati. 
+====
+Jinoyat qonunida nazarda tutilgan ijtimoiy xavfli qilmish. 
+
+
+++++
+
+
+Zaiflik nima?
+==== 
+#Ekspluatatsiyaning muvaffaqiyatli bo'lishiga imkon beradigan tizimning o'ziga xos xususiyati 
+====
+Jinoyat qonunida nazarda tutilgan ijtimoiy xavfli qilmish. 
+====
+Hujumni o'z ichiga olgan texnik tafsilotlarni bildiradi. 
+====
+Jinoyatchi tomonidan sodir etilishi mumkin yoki bo'lmasligi mumkin bo'lgan potentsial harakat. 
+
+
+++++
+
+
+…… tashkilotning axborot aktivlarini aniqlash va siyosat, standartlar, protseduralar va ko'rsatmalarni ishlab chiqish, hujjatlashtirish va amalga oshirishni o'z ichiga oladi. Nuqtalar o’rniga mosini toping?
+==== 
+#xavfsizlikni boshqarish 
+====
+axborotni boshqarish. 
+====
+kiberxavfsizlik siyosati. 
+====
+normativ hujjatlar. 
+
+
+++++
+
+
+… - axborot xavfsizligi bo'yicha xalqaro sertifikatlash konsortsiumi tomonidan ishlab chiqilgan axborot xavfsizligi sertifikati. Nuqtalar o’rniga mos javobni toping. 
+====
+#Certified Information Systems Security Professional
+====
+Certified Information Systems Auditor. 
+====
+Certified Information Security Manager. 
+====
+GIAC Security Essentials Certification. 
+
+
+++++
+
+
+Xavfsizlikni boshqarish bo’limlarini toping
+==== 
+#Prinsiplar va talablar, siyosat, tashkiliy rollar va javobgarlik, axborot tasnifi, xatarlarni boshqarish va tahlil qilish 
+====
+Siyosat, axborot tasnifi. 
+====
+Xatarlarni boshqarish va tahlil qilish, siyosat. 
+====
+Tashkiliy rollar va javobgarlik, siyosat, prinsiplar va talablar. 
+
+
+++++
+
+
+Xavfsizlik bo’limining maqsadlari nima?
+==== 
+#Barcha javoblar to’g’ri  
+====
+Axborot xavfsizligining asosiy tamoyillarini aniqlash. 
+====
+IT xavfsizligi talablarini tasvirlab berish. 
+====
+Axborot xavfsizligi talablari va “Blueprint” lar zarurligini muhokama qilish. 
+
+
+++++
+
+
+Axborot xavfsizligi maqsadlarining asosiy tamoyillarini ko’rsating?
+==== 
+#Barcha javoblar to’g’ri
+====
+Tizimlar va ma’lumotlarning ruxsatsiz oshkor qilinishini oldini olish. 
+====
+Tizim va ma’lumotlarning ruxsatsiz o’zgartirilishini oldini olish. 
+====
+Ishlab chiqarish va xizmat ko’rsatishning buzilishini oldini oladi. 
+
+
+++++
+
+
+Tashkilotning o'ziga xos talablariga javob beradigan talablar, huquqiy, tartibga soluvchi hujjatlar, biznes, IT -yurituvchilar ta'siri bular qaysi yo’nalishga tegishli?
+==== 
+#shaxsiy xavfsizlik 
+====
+blueprint, xavfsizlik. 
+====
+shaxsiy axborot. 
+====
+axborot xavfsizligi. 
+
+
+++++
+
+
+Tashkilotning xavfsizlik siyosati, standartlari, asosiy qoidalari, protseduralari va yo'riqnomalarini ishlab chiqish, amalga oshirish, boshqarish va ko'rib chiqish uchun javobgar kimlar hisoblanadi?
+==== 
+#Axborot tizimlari xavfsizligi bo’yicha mutaxassislar 
+====
+Kiberxavfsizlik bo’yicha soha vakillari. 
+====
+Ijro hujjatlariga ma’sul shaxslar. 
+====
+Tarmoq xavfsizligi mutaxassislari. 
+
+
+++++
+
+
+Vasiy - tizim/ma'lumotlar bazalarini har qanday vaqt davomida ularga tegishli bo'lishi shart bo'lmagan holda “qo’riqlovchi" funksiya. Bunga ma’sullar kimlar?
+==== 
+#Tarmoq admnistratorlar yoki operatorlar
+====
+Kotibalar. 
+====
+Tashkilot boshliqlari. 
+====
+Vasiyga ma’sul shaxs yo’q. 
+
+
+++++
+
+
+Foydalanuvchilar -……….. 
+====
+#resurslardan foydalanish va aktivlarning mavjudligi, yaxlitligi va maxfiyligini saqlash uchun mas'ul - xavfsizlik siyosatiga rioya qilish uchun javobgardir
+====
+tashkilotning xavfsizlik siyosati, standartlari, asosiy qoidalari, protseduralari va yo'riqnomalarini ishlab chiqish, amalga oshirish, boshqarish va ko'rib chiqish uchun javobgar. 
+====
+xavfsizlik siyosatini amalga oshirish va ularga rioya qilish uchun javobgardir. 
+====
+to’g’ri javob yo’q. 
+
+
+++++
+
+
+Tashkilot egalari nimalarga javobgar?
+==== 
+#Barcha javoblar to’g’ri
+====
+tashkilotning xavfsizlik siyosatiga mos keladigan tegishli xavfsizlik ularning axborot tizimlarida joriy etilishini ta'minlash. 
+====
+ta’sirchanlik yoki tasniflash darajalarini hal qilish. 
+====
+kirish huquqini hal qilish. 
+
+
+++++
+
+
+Axborot tizimlari auditori nimalarga javobgar?
+==== 
+#Barcha javoblar to’g’ri
+====
+xavfsizlik maqsadlarining muvofiqligi to'g'risida rahbariyatga mustaqil ishonchni ta'minlash. 
+====
+xavfsizlik siyosati, standartlari, asoslari, protseduralari va yo'riqnomalari tashkilotning xavfsizlik maqsadlariga muvofiqligi va samarali ekanligini aniqlash. 
+====
+maqsadlar va nazoratga erishilmoqdami yoki yo'qligini aniqlash. 
+
+
+++++
+
+
+Xavfsizlik tashkilotiga ishga qabul qilish tartibini ko’rsating. 
+====
+#Barcha javoblar to’g’ri
+====
+O’tgan faoliyatini surishtirish. 
+====
+Ta’lim hujjatlarini tekshirish. 
+====
+Mehnat shartnomalarini imzolash. 
+
+
+++++
+
+
+Xavfsizlik tashkilotlari mehnat shartnomalarini imzolashda nimalarga e’tibor beradi?
+==== 
+#Oshkor etmaslik, ish etikasi, telefon va internetdan foydalanmaslik
+====
+Ish etikasi. 
+====
+Telefon va internetdan foydalanmaslik. 
+====
+To’g’ri javob berilmagan. 
+
+
+++++
+
+
+Xavfsizlik tashkilotiga ishga qabul qilinganlarga nimalar beriladi?
+==== 
+#Barcha javoblar to’g’ri 
+====
+Kalitlar, ID kartalar. 
+====
+Parollar. 
+====
+Xodimga uskunalar. 
+
+
+++++
+
+
+Xavfsizlik tashkilotida xodimning ish faoliyatini tugatganida tashkilot tugatish tartibida nimalarga e’tibor berish lozim?
+==== 
+#Barcha javoblar to’g’ri 
+====
+Xodim korxonada o’z ish faoliyatini tugatayotganda barcha kirish kartalari va asbob-uskunalar qaytarilganligiga ishonch hosil qilish. 
+====
+Xodim jo'nab ketgandan so'ng darhol foydalanuvchi ruxsatini olib tashlash. 
+====
+To'xtatib turishga ehtiyoj sezilganda intizomiy tartib-qoidalarga amal qilish. 
+
+
+++++
+
+
+Xavfsizlik xabardorligiga nimalar kiradi?
+==== 
+#Ogohlantirish materiallari, treninglarda qatnashish, yangiliklardan xabardor bo’lish
+====
+Treninglarda qatnashish. 
+====
+Axborot xavfsizligini ta’minlash. 
+====
+Turli xil ommaviy axborot vositalaridagi yoritilayotgan yangiliklar. 
+
+
+++++
+
+
+......... tashkilotni himoyalash maqsadida amalga oshirilgan xavfsizlik nazoratini tavsiflovchi yuqori sathli hujjat yoki hujjatlar toʻplami.?
+==== 
+#Xavfsizlik siyosati
+====
+Tashkilot siyosati. 
+====
+Kibexujum siyosati. 
+====
+Xujjatlar siyosati. 
+
+
+++++
+
+
+Xavfsizlik siyosati qanday qiymatlarni saqlaydi?
+==== 
+#Barcha javoblar toʻgʻri
+====
+Konfidensiallikni. 
+====
+Aktiv, foydalanuvchanlikni. 
+====
+Yaxlitlikni. 
+
+
+++++
+
+
+Xavfsizlik siyosatlarining afzalliklari toʻgʻri koʻrsatilgan javobni toping. 
+====
+#Barcha javoblar toʻgʻri 
+====
+Kuchaytirilgan maʼlumot va tarmoq xavfsizligi. 
+====
+Risklarni kamaytirish. 
+====
+Tarmoqni yuqori unumdorligi. 
+
+
+++++
+
+
+Kibermakonning nechta darajasi mavjud?
+==== 
+#4 ta 
+====
+6 ta. 
+====
+3 ta. 
+====
+2 ta. 
+
+
+++++
+
+
+Yaxshi xavfsizlik siyosatining xususiyatlari nechta?
+==== 
+#8 ta.
+====
+6 ta. 
+====
+5 ta. 
+====
+7 ta. 
+
+
+++++
+
+
+Xavfsizlik siyosatining xususiyatlari keltirilgan javobni toping?
+==== 
+#Qisqa va aniq, tushunarli boʻlishi, amaliy boʻlishi, barqaror boʻlishi
+====
+Mulojaviy bardoshli boʻlishi, qisqa va aniq, intizom boʻlishi, maxfiy boʻlishi. 
+====
+Foydalanuvchan boʻlishi, maqsadli boʻlishi, qisqa va aniq, maxalliy boʻlishi. 
+====
+Tushunarli boʻlishi, amaliy boʻlishi, ommaviy boʻlishi, mulojaviy bardoshli boʻlishi. 
+
+
+++++
+
+
+
+Xavfsizlik talablarining nechta turi mavjud?
+==== 
+#4 turi
+====
+3 turi. 
+====
+2 turi. 
+====
+5 turi. 
+
+
+++++
+
+
+Qaysi qismda asosiy eʼtibor xavfsizlik tartibiga, qoʻriqlash, muolajalar, amallarning bogʻliqligi va hujjatlashtirishga qaratiladi?
+==== 
+#Siyosat tavsifi
+====
+Amaliy tavsifi. 
+====
+Xavsizlik tavsifi. 
+====
+Xujjat tavsifi. 
+
+
+++++
+
+
+Amalning xavfsizlik tushunchasi toʻgʻri koʻrsatilgan javobni toping? 
+====
+#Xavfsizlik siyosatining rollarini, javobgarliklari va funksiyalarini aniqlaydi. 
+====
+Siyosat dasturdagi har bir tizim uchun kompyuter tizimlari arxitekturasini joylashuvini taʼminlaydi 
+====
+Siyosati nima uchun tuzilganligin batafsil tushuntirish. 
+====
+Asosiy eʼtibor xavfsizlik tartibiga, qoʻriqlash, muolajalar, amallarning bogʻliqligi va hujjatlashtirishga qaratiladi. 
+
+
+++++
+
+
+Xavfsizlik siyosatining ........... siyosat koʻrib chiqishi kerak boʻlgan asosiy maʼlumotlarni taqdim etadi. Nuqtalar oʻrniga toʻgʻri javobni toping? 
+====
+#umumiy tavsifi
+====
+harakat sohasi. 
+====
+siyosati tavsifi. 
+====
+muolajaviy xavfsizlik. 
+
+
+++++
+
+
+............siyosati nima uchun tuzilganligin batafsil tushuntirish; nuqtalar oʻrnini toʻldiring?
+==== 
+#Maqsad
+====
+Siyosat. 
+====
+Kontakt malumotlari. 
+====
+Maqsadli auditoriya. 
+
+
+++++
+
+
+............bu – xavfsizlik siyosatining har bir aspekti uchun bayondir. Nuqtalar oʻrnini toʻldiring?
+==== 
+#Siyosatlar 
+====
+Maqsad. 
+====
+Kontakt malumotlari. 
+====
+Maqsadli auditoriya. 
+
+
+++++
+
+
+.........bu - siyosat ishlab chiqilayotgan foydalanuvchilar va mijozlardir; nuqtalar oʻrnini toʻldiring?
+==== 
+#Maqsadli auditoriya
+====
+Siyosat. 
+====
+Kontakt malumotlari. 
+====
+Maqsad. 
+
+
+++++
+
+
+Xavfsizlik talablarining turi toʻgʻri koʻrsatilgan javobni belgilang? 
+==== 
+#Intizom xavfsizligi talablari, qoʻriqlash xavfsizligi talablari
+====
+Mulojaviy xavfsizligi talablari,qoidalar va javobgarliklar xavfsizligi talablari. 
+====
+Kafolat xavfsizligi talablari, qoidalar va javobgarliklar xavfsizligi talablari. 
+====
+Barcha javob toʻgʻri. 
+
+
+Xavfsizlik siyosatining ierarxiyasi toʻgʻri koʻrsatilgan javobni toping? 
+==== 
+#Barcha javob toʻgʻri 
+====
+Qonunlar, normativ hujjatlar. 
+====
+Siyosatlar, standartlar, instruksiyalar. 
+====
+Muolajalar, umumiy qoidalar. 
+
+
+++++
+
+
+.........bu – tashkilot siyosatini chuqur tarkibini belgilaydigan tuzilma. Nuqtalar oʻrniga toʻgʻri javobni toping? 
+==== 
+#Siyosat bayoni 
+====
+Siyosatning tipik mazmuni. 
+====
+Siyosat tavsifi. 
+====
+Standartlar. 
+
+
+++++
+
+
+Xavfsizlik siyosatini yaratish va amalga oshirish nechta bosqichdan iborat? 
+==== 
+#9 ta
+====
+8 ta. 
+====
+7 ta. 
+====
+6 ta. 
+
+
+++++
+
+
+Xavfsizlik siyosatini yaratish va amalga oshirish bosqichlari toʻgʻri koʻrsatilgan javobni belgilang? 
+==== 
+#Barcha javob toʻgʻri
+====
+Risklarni baholash, standart umumiy qoidalar, nazoratni kiritilishi, jazolar, yakuniy ishlanma. 
+====
+Xodimlar tomonidan qabul qilinishi, standart umumiy qoidalar, siyosatini joriy qilish, nazoratni kiritilishi. 
+====
+Xodimlarni oʻrgatish, koʻrish va yangilash, jazolar, yakuniy ishlanma. 
+
+
+++++
+
+
+Maqbul foydalanish siyosati................? 
+==== 
+#resurslaridan toʻgʻri foydalanishni belgilaydi
+====
+resurslaridan foydalanishda hech qanday cheklovlar qoʻymaydi. 
+====
+faqat maʼlum xavfli xizmatlar/ hujumlar yoki harakatlar bloklanadi. 
+====
+hamma narsa taqiqlanadi. 
+
+
+++++
+
+
+Internetdan foydalanish siyosatining nechta turi mavjud? 
+==== 
+#4 ta
+====
+5 ta. 
+====
+3 ta. 
+====
+6 ta. 
+Qaysi siyosat tizim resurslaridan foydalanishla hech qanday cheklovlar qoʻymaydi? 
+==== 
+#Nomuntazam siyosat
+====
+Ruxsat berishga asoslangan siyosat. 
+====
+Paranoid siyosati.
+====
+Extiyotkorlik siyosati. 
+
+
+++++
+
+
+Qaysi siyosatga koʻra faqat maʼlum xavfli xizmatlar/ hujumlar yoki harakatlar bloklanadi? 
+==== 
+#Ruxsat berishga asoslangan siyosat 
+====
+Nomuntazam siyosat. 
+====
+Paranoid siyosati. 
+====
+Extiyotkorlik siyosati. 
+
+
+++++
+
+
+Qaysi siyosatga koʻra hamma narsa taqiqlanadi? 
+==== 
+#Paranoid siyosati 
+====
+Nomuntazam siyosat. 
+====
+Ruxsat berishga asoslangan siyosat. 
+====
+Extiyotkorlik siyosati. 
+
+
+++++
+
+
+Qaysi siyosat turi barcha xizmatlar blokirovka qilinganidan soʻng boshlanadi? 
+==== 
+#Extiyotkorlik siyosati 
+====
+Nomuntazam siyosat. 
+====
+Ruxsat berishga asoslangan siyosat. 
+====
+Paranoid siyosati. 
+
+
+++++
+
+
+Maqbul foydalanish siyosati toʻgʻri amalga oshirilganiga ishonch hosil qilish uchun nima qilish kerak? 
+==== 
+#Administrator doimiy ravishda xavfsizlik auditini olib borishi kerak 
+====
+Jazo choralarini qollash kerak. 
+====
+Hujumlar yoki harakatlar bloklanadi. 
+====
+Xech qanday cheklov qo’ymaslik kerak. 
+
+
+++++
+
+
+Ushbu siyosatlardan qaysi biri tashkilotdagi aynan bir xavfsizlik muammosiga qaratilgan boʻladi? 
+==== 
+#Muammoga karatilgan xavfsizlik siyosatlari
+====
+Tashkilot axborot xavfsizligi siyosati. 
+====
+Tizimga karatilgan xavfsizlik siyosatlari. 
+====
+To’g’ri javob yo’q. 
+
+
+++++
+
+
+Xavfsizlik siyosatini muvaffaqiyatli amalga oshirishdagi tavsiyalardan noto’g’ri keltirilgan javobni toping? 
+==== 
+#Hamma ruxsat etilgan narsalarni taqiqlab qo’yish
+====
+Har bir siyosatni koʻrib chiqish va tashkilot ichida qanday qoʻllanilishi haqida oʻylash. 
+====
+Siyosatga muvofiq boʻlgan mos vositalarning mavjudligiga ishonch hosil qilish. 
+====
+Tarmoqni yoki siyosatni ixtiyoriy almashtirish kerakligi haqida rejani yaratish. 
+
+
+++++
+
+
+Xavfsizlik siyosatini loyihalash nechta bosqichda amalga oshiriladi? 
+==== 
+#8 ta 
+====
+7 ta. 
+====
+9 ta. 
+====
+12 ta. 
+
+
+++++
+
+
+Tashkilotning xavfsizlik siyosati qanday bayonlardan iborat boʻlsa muvaffaqqiyatli boʻladi? 
+==== 
+#Agar aniq va qisqa bayonlardan 
+====
+Uzun va qisqa bayonlardan. 
+====
+To’liq va uzun bayonlardan. 
+====
+To’g’ri javob yo’q. 
+
+
+++++
+
+
+Quyidagilardan qaysi biri xavfsizlik siyosatini yaratish va amalga oshirish bosqichlariga misol bo’la olmaydi? 
+==== 
+#Tashkilotning asosiy maqsadlarini taqdim qilish
+====
+Standart umumiy qoidalar. 
+====
+Jazolar. 
+====
+Risklarni baxolash. 
+
+
+++++
+
+
+Siyosat bayoni bu nima? 
+==== 
+#Tashkilot siyosatini chuqur tarkibini belgilaydigan tuzilma 
+Tashkilotning ish jarayoni to’g’risidagi axborot. 
+Xodimlarning ishlash tarkibini belgilovchi bayon. 
+To’g’ri javob yo’q. 
+Siyosatning muhim boʻlimlari nechta? 
+==== 
+#10 ta 
+7 ta. 
+8 ta. 
+12 ta. 
+ 
+Xarakat sohasi bu? 
+==== 
+#Kimni va nimani qamrab olish haqidaga axborotni oʻz ichiga oladi 
+====
+Xodimlar va boshqaruv uchun aniqlanadi. 
+====
+Siyosat ishlab chiqilayotgan foydalanuvchilar va mijozlardir. 
+====
+Xavfsizlik siyosatining har bir aspekti uchun bayondir. 
+
+
+++++
+
+
+Kontakt maʼlumotlari bu? 
+==== 
+#Siyosat sanksiyalari va/ yoki buzilishlari yuz berganda kim bilan bogʻlinish kerakligi haqidagi axborot 
+====
+Mijozlar va foydalanuvchilar rioya qilishi kerak boʻlgan ruxsat berish/ rad etish jarayonini belgilaydi. 
+====
+Kimni va nimani qamrab olish haqidaga axborotni oʻz ichiga oladi. 
+====
+Xavfsizlik siyosatining har bir aspekti uchun bayondir. 
+
+
+++++
+
+
+Quyidagilarda qaysi biri xavfsizlik talablarining turlariga kirmaydi? 
+==== 
+#To’g’ri javob yo’q 
+====
+Intizom xavfsizligi talablari. 
+====
+Qoʻriqlash xavfsizligi talablari. 
+====
+Muolajaviy xavfsizlik talablari. 
+
+
+++++
+
+
+Quyidagilarda qaysi biri xavfsizlik talablarining turlariga kirmaydi? 
+==== 
+#Umumiy qoidalar
+====
+Siyosatlar. 
+====
+Standartlar. 
+====
+Muolajalar 
+
+
+++++
+
+
+Axborot xavfsizligi siyosatining printsipi quyidagilardan iborat? 
+==== 
+#Tarmoq (tizim) himoyasini chetlab o'tishning mumkin emasligi. 
+====
+Tarmoq, tizimning asosiy bo'g'inini mustahkamlash 
+====
+Kirishni to'liq blokirovka qilish 
+====
+Barcha javoblar noto'g'ri 
+
+
+++++
+
+
+Axborot xavfsizligi siyosatining printsipi quyidagilardan iborat? 
+==== 
+#Tarmoqdagi eng himoyalanmagan havola xavfsizligini kuchaytirish (tizimlar). 
+Ishning xavfsiz holatiga o'tish 
+Foydalanuvchining to'liq kirishi 
+====
+Barcha javoblar noto'g'ri 
+
+
+++++
+
+
+Axborot xavfsizligi siyosatining printsipi quyidagilardan iborat? 
+==== 
+#Tarmoq mijozlariga kirishni (mas'uliyat, imtiyozlarni) bo'lishish (tizimlar). 
+====
+Tengdoshli tarmoqni himoya qilish, tizim 
+====
+Mos, o'xshash dasturiy ta'minot va apparat 
+====
+Barcha javoblar noto'g'ri 
+
+
+++++
+
+
+Xavfsizlik siyosati quyidagilarga asoslanadi? 
+==== 
+#tashkilot IP haqida umumiy tushuncha. 
+====
+tegishli tashkilotlarning siyosatini o'rganish 
+====
+xavf tahlili
+====
+barcha javoblar noto'g'ri 
+
+
+++++
+
+
+Risk funksiya hisoblanadi? 
+==== 
+#mumkin bo'lgan zarar miqdori. 
+====
+axborot tizimidan foydalanuvchilar soni
+====
+tashkilotning ustav kapitali 
+====
+barcha javoblar noto'g'ri 
+
+
+++++
+
+
+Risklarni boshqarish bosqichlariga quyidagilar kiradi? 
+==== 
+#aktivlarni identifikatsiya qilish.
+====
+majburiyatlarni tugatish 
+====
+baholash uchun fanlarni tanlash 
+====
+barcha javoblar noto'g'ri 
+
+
+++++
+
+
+Tahdidlarni tahlil qilishning birinchi bosqichi? 
+==== 
+#tahdidlarni aniqlash.
+====
+tahdidning autentifikatsiyasi
+====
+tahdidlarni bartaraf etish
+====
+barcha javoblar noto'g'ri 
+
+
+++++
+
+
+Axborot tizimida parollarni saqlashning eng yaxshi usuli qanday? 
+==== 
+#Hashing 
+====
+Umuman saqlamang. 
+====
+Arxivlash. 
+====
+Faqat xavfsizlik devori yoqilgan holda saqlang. 
+
+
+++++
+
+
+Viruslar qaysi tizimlarda dinamikroq tarqaladi?
+==== 
+#Android 
+====
+Linux. 
+====
+MacOS. 
+====
+Windows. 
+
+
+++++
+
+
+Kompyuter xavfsizligiga eng katta tahdid? 
+==== 
+#Troyanlar 
+====
+Spam. 
+====
+Qurtlar. 
+====
+Josuslik dasturi. 
+
+
+++++
+
+
+Axborot tizimlari nima uchun yaratilgan? 
+==== 
+#muayyan axborot xizmatlarini olish 
+====
+axborotni qayta ishlash. 
+====
+barcha javoblar to‘g‘ri. 
+====
+Barcha javoblar noto'g'ri. 
+
+
+++++
+
+
+Butunlikni quyidagilarga bo‘lish mumkin? 
+==== 
+#Barcha javoblar to‘g‘ri 
+====
+Statik. 
+====
+Dinamik. 
+====
+Strukturaviy. 
+
+
+++++
+
+
+Qachon axborot tizimlarida qanday qiyinchiliklar yuzaga keladi maxfiylik? 
+==== 
+#axborotning chiqib ketishining texnik kanallari haqidagi ma'lumotlar yopiq. 
+====
+ko'p texnik muammolar 
+====
+barcha javoblar to‘g‘ri 
+====
+Barcha javoblar noto'g'ri 
+
+
+++++
+
+
+Tahdid - bu ... ?
+====
+#ma'lum bir tarzda buzish potentsiali axborot xavfsizligi. 
+====
+tashkiliy-texnikaviy dasturiy til tizimi jamg'arish va jamoa uchun mo'ljallangan mablag'lar ma'lumotlardan foydalanish 
+====
+aniqlash jarayoni rivojlanishning hozirgi holatiga javob beradi. Ushbu bosqichning talablari 
+====
+Barcha javoblar noto'g'ri 
+
+
+++++
+
+
+Xavf manbai .. ?
+====
+#potentsial hujumchi. 
+====
+hujumchi 
+====
+to'g'ri javob yo'q 
+====
+Barcha javoblar noto'g'ri 
+
+
+++++
+
+
+Xavf oynasi - bu ... ?
+#imkoniyat yuzaga kelgan paytdan boshlab vaqt davri zaif nuqta va bo'shliq yopilgan paytgacha. 
+====
+masalalarni yechish uchun o'zaro bog'liq dasturlar majmuasi muayyan fan sohasining muayyan sinfi 
+====
+yechish algoritmi masalalarini tavsiflash uchun rasmiylashtirilgan til kompyuterda foydalanuvchi vazifalari 
+====
+Barcha javoblar noto'g'ri 
+
+
+++++
+
+
+Foydalanish imkoniyatlariga tahdidlar qanday komponentlar bo‘yicha tasniflanadi? 
+==== 
+#qo'llab-quvvatlovchi infratuzilmaning ishdan chiqishi. 
+====
+foydalanuvchining rad etishi 
+====
+dasturdagi xato 
+====
+====
+Barcha javoblar noto'g'ri 
+
+
+++++
+
+
+Ichki nosozliklarning asosiy manbalari quyidagilardir?  
+====
+#belgilangan ish qoidalaridan chetga chiqish. 
+====
+ma'lumotlarni yo'q qilish 
+====
+barcha javoblar to‘g‘ri 
+====
+Barcha javoblar noto'g'ri 
+
+
+++++
+
+
+Virus bu ... ?  
+====
+#Buzg’unchi tomonidan tarqalish qobiliyatiga ega kod boshqa dasturlarda amalga oshirish. 
+====
+ob'ektning so'rovga o'ziga mos ravishda javob berish qobiliyati turi va bir xil usul nomidan foydalanish mumkin 
+====
+ob'ektlarning turli sinflari uchun muayyan vazifani bajarish uchun kichik dastur 
+====
+Barcha javoblar noto'g'ri 
+
+
+++++
+
+
+Tahdidlarning kelib chiqish tabiati? 
+==== 
+#Barcha javoblar to‘g‘ri. 
+====
+qasddan 
+====
+tabiiy 
+====
+tasodifiy 
+
+
+++++
+
+
+Tahdidlar paydo bo'lishining zaruriy shartlari? 
+====   
+#Barcha javoblar to‘g‘ri. 
+====
+sub'ektiv 
+====
+qasddan 
+====
+maqsadli 
+
+
+++++
+
+
+Birovning huquqini o'zlashtirib olish tahdidlarning qaysi turiga kiradi? 
+==== 
+#mulk huquqining buzilishi. 
+====
+mazmunning buzilishi 
+====
+tashqi muhit 
+====
+Barcha javoblar noto'g'ri 
+
+
+++++
+
+
+Axborot xavfsizligiga tahdidlarning asosiy manbalari quyidagilardir? 
+====  
+#Ma'lumotlarni ushlash, ma'lumotlarni o'g'irlash, arxitektura o'zgarishi tizimlari. 
+====
+Ma'lumotlarni o'g'irlash, tizim ma'murlariga pora berish, huquqbuzarlik ish tartibi 
+====
+Qattiq disklarni o'g'irlash, tarmoqqa ulanish, insayderlik 
+====
+Barcha javoblar noto'g'ri 
+
+
+++++
+
+
+Axborot xavfsizligi turlari? 
+====   
+#Shaxsiy, korporativ, davlat. 
+====
+Mijoz, server, tarmoq 
+====
+Mahalliy, global, aralash 
+====
+Barcha javoblar noto'g'ri 
+
+
+++++
+
+
+Ushbu siyosatlardan qaysi biri tashkilotdagi aynan bir xavfsizlik muammosiga qaratilgan boʻladi? 
+==== 
+#Muammoga karatilgan xavfsizlik siyosatlari 
+====
+Tashkilot axborot xavfsizligi siyosati. 
+====
+Tizimga karatilgan xavfsizlik siyosatlari. 
+====
+To’g’ri javob yo’q. 
+
+
+++++
+
+
+Xavfsizlik siyosatini loyihalash nechta bosqichda amalga oshiriladi? 
+==== 
+#7 ta 
+====
+8 ta. 
+====
+9 ta. 
+====
+12 ta. 
+
