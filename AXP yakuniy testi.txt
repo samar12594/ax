@@ -1,0 +1,2407 @@
+
+++++
+
+“Elektron qurilmalar, mobil tarmoqlar, xavfsizlik tizimlari, serverlar va ma’lumotlarni hujumlardan himoya qilish usuli- ?
+====
+# Kiberxavfsizlik
+====
+iqtisodiy xavfsizlik
+====
+inson xavfsizligi
+====
+jamoa xavfsizligi
+
+++++
+
+“Security” so‘zi?
+====
+# Tahdid yoki xavfdan ozod; xavfsiz
+==== 
+tahdid yoki xavfdan ozod; xavfsiz  bo‘yicha aniqlash jarayoni
+====
+tahdid yoki xavfdan ozod; xavfsiz. Foydalanuvchini uning tug’ilgan kuni  qayd etish
+====
+tahdid yoki xavfdan ozod; xavfsiz tug’ilgan kuni  bo‘yicha aniqlash jarayoni tekshirish
+
+++++
+
+Axborot xavfsizligi?
+====
+# Bu sizning ma'lumot aktivlaringizni ruxsatsiz kirishdan himoya qilish.
+====
+hisoblashga asoslangan bilim sohasi bo‘lib, kirishni cheklaydigan qoidalarni belgilaydi
+====
+ma'lumotlar o'zgartirilmasligi, o'chirilishi yoki noqonuniy foydalanilishi mumkin emasligini bildiradi va kirishni cheklaydigan qoidalarni belgilaydi
+====
+barcha javoblar to’g’ri
+
+++++
+
+Risk –?
+====
+# Potensial foyda yoki zarar
+==== 
+mantiqiy xavfsizlik
+====
+hisoblashga asoslangan bilim
+====
+barcha javoblar to’g’ri
+
+++++
+
+Bo‘lishi mumkin bo‘lgan xavfni oldini olish uchun qonuniy foydalanuvchini hujumchi kabi fikrlash jarayoni?
+====
+# Hujumchi kabi fikrlash
+====
+tizimli fikrlash
+====
+noqonuniy Tizimli fikrlash
+====
+barcha javoblar to’g’ri
+
+++++
+
+Qonuniy foydalanuvchi?
+====
+# Legal
+====
+mantiqiy
+====
+noqonuniy
+====
+barcha javoblar to’g’ri
+
+++++
+
+Kafolatlangan amallarni ta’minlash uchun ijtimoiy va texnik cheklovlarni o‘zaro ta’sirini hisobga oladigan fikrlash jarayoni?
+====
+# Tizimli fikrlash
+====
+tizimsiz fikrlash
+====
+tizimli va tizimsiz fikrlash
+====
+barcha javoblar noto’g’ri
+
+++++
+
+Tizimli fikrlash?
+====
+# Kafolatlangan amallarni ta’minlash uchun ijtimoiy va texnik cheklovlarni o‘zaro ta’sirini hisobga oladigan fikrlash jarayoni
+====
+kafolatlanmagan amallarni ta’minlash uchun ijtimoiy va texnik cheklovlarni o‘zaro ta’sirini hisobga oladigan fikrlash jarayoni
+====
+noqonuniy kafolatlangan amallarni ta’minlash
+====
+barcha javoblar noto’g’ri
+
+++++
+
+IDS?
+====
+# Tizim yoki tarmoq xavfsizlik siyosatini buzib kirishga harakat qilingan usul yoki vositalar aniqlanadi
+====
+xavfsizlik xizmati lokal tarmoqdagi dasturlar va ma’lumotlar vakolatga ega
+==== 
+xavfsizlik xizmati lokal tarmoqdagi barcha resurslardan foydalanish jarayonini kuzatib, bo‘lgan ћolatlarni qayd etish bilan shuѓullanadi
+====
+barcha javoblar to’g’ri
+
+++++
+
+….. - bu xavfsizlik protokollari hamda shifrlash algoritmlaridan foydalangan holda tarmoq orqali xavfsiz ma’lumot almashish imkonini beradi?
+====
+# IPSEC.
+====
+VPN,
+====
+IDS,
+====
+HTTPSEC,
+
+++++
+
+IPSEC?
+====
+# Bu xavfsizlik protokollari hamda shifrlash algoritmlaridan foydalangan holda tarmoq orqali xavfsiz ma’lumot almashish imkonini beradi
+====
+tarmoq orqali xavfli ma’lumot almashish imkonini beradi
+====
+xavfsizlik xizmati lokal tarmoqdagi dasturlar va ma’lumotlar vakolatga ega
+==== 
+xavfsizlik xizmati lokal tarmoqdagi barcha resurslardan foydalanish jarayonini kuzatib, bo‘lgan ћolatlarni qayd etish bilan shuѓullanadi
+
+++++
+
+Kiberxavfsizlik ……-yilda internetning kashfiyotchisi ARPANET (ilg'or tadqiqot loyihalari agentligi tarmog'i) tadqiqot loyihasi bilan boshlandi?
+====
+# 1972 Yil
+====
+1977 yil
+====
+1980 yil
+====
+1999 yil
+
+++++
+
+Sovuq urush davrida kiber hujum xavfi mavjud edi. …….-yilda AQSh mudofaa vazirligi ishonchli kompyuter tizimlarini baholash mezonlarini e'lon qildi?
+====
+# 1985 Yil
+==== 
+1988 yil
+====
+1982 yil
+====
+1990 yil
+
+++++
+
+Sovuq urush davrida kiber hujum xavfi mavjud edi. 1985da AQSh mudofaa vazirligi ishonchli kompyuter tizimlarini baholash mezonlarini e'lon qildi. (shuningdek, …………….. kitob sifatida ham tanilgan)?
+====
+# To'q sariq
+==== 
+yashil
+====
+to'q qizil
+====
+to'q ko’k
+
+++++
+
+"troyan horse" va "kompyuter virusi"so'zlari birinchi marta ishlatilgan.
+====
+# 1980 Yil
+====
+1982 yil
+====
+1985 yil
+====
+1979 yil
+
+++++
+
+…….- yil tijorat antivirusining tug'ilgan yili?
+====
+# 1987 Yil
+====
+1980 yil
+====
+1985 yil
+====
+1989 yil
+
+++++
+
+Ma’murlash qanday jarayon?
+====
+# Foydalanuvchining tarmoqdagi harakatini, shu  jumladan, uning resurslardan foydalanishga urinishini qayd etish.
+====
+foydalanuvchining tarmoqdagi harakatini cheklaydi va urinishini qayd etmaydi
+====
+resurslardan foydalanishga urinishini qayd etish va cheklash
+====
+tarmoqdagi foydalanishni qayd etish va foydalanuvchining tarmoqdagi harakatini chegaralash
+
+++++
+
+Avtorezatsiya qanday jarayon?
+====
+# Subektga tizimda ma’lum vakolat va resurslarni berish
+====
+subektga tizimda ma’lum vakolat berish va bermaslik
+====
+nomi bo’yicha aniqlash va monitoring qilish
+====
+barcha javoblar noto’g’ri
+
+++++
+
+Kiberxavfsizlik siyosati nima -?
+====
+# Elektron qurilmalar, mobil tarmoqlar, xavfsizlik tizimlari, serverlar va ma'lumotlarni dahshatli hujumlardan himoya qilishda qo’llaniladigan tartib qoidalar majmuasi.
+====
+u ma'lumotlarga kirishni cheklamaydigan qoidalarni belgilaydi. Maxfiylik maxfiy ma'lumotlarni kiberhujumchilar va xakerlarga kirishni cheklash choralarini ko'radi
+====
+elektron qurilmalar, mobil tarmoqlar, xavfsizlik tizimlari, serverlar va ma'lumotlarni dahshatli hujumlardan himoya qilish usuli
+====
+maxfiylik maxfiy ma'lumotlarni kiberhujumchilar va xakerlarga kirishni cheklash choralarini ko'radi
+
+++++
+
+Autenfikatsiya jarayonlari biror narsaga egalik asosida kategoriyasiga nimalar kiradi?
+====
+# Magnit kartalar, smart kartalar, sertifikatlar, touch memoriy qurilmalar
+====
+touch memoriy qurilmalar, ovozlar, smart kartalar, barmoq izlari
+====
+magnit kartalar, sertifikatlar, kaft geometriyasi, smart kartalar
+====
+smart kartalar, barmoq izlari, touch memoriy qurilmalar, sertifikatlar
+
+++++
+
+Ko’p faktorli autentifikatsiya deb nimaga aytiladi?
+====
+# Bir nechta faktor ishlatilsa
+====
+bir nechta parol ishlatilsa
+====
+bir nechta foydalanuvchisi bo’lsa
+====
+foydalanuvchilar soni cheksiz bo’lsa
+
+++++
+
+Dinamik parol nima?
+====
+# Bir martalik parol
+====
+ko’p martalik parol
+====
+sertifikatli parol
+====
+legal parol
+
+++++
+
+Saudiya hacker 0XOMAR onlayn 400,000 dan ortiq kredit kartalari tafsilotlari zararlandi bu qaysi yil?
+====
+# 2012 Yil
+====
+2005 yil 
+====
+2010 yil
+====
+2018 yil
+
+++++
+
+Autenfikatsiya qanday jarayon?
+====
+# Tekshirish
+====
+vakolat berish
+====
+qayd etish
+====
+sertifikatlash
+
+++++
+
+Xavfsizlikning asosiy yo‘nalishlari - ?
+====
+# Axborot xavfsizligi. Iqtisodiy xavfsizlik.  Mudofaa xavfsizligi. Ijtimoiy   xavfsizlik. Ekologik xavfsizlik
+====
+axborot xavfsizligi. Iqtisodiy xavfsizlik.  Mudofaa xavfsizligi. Ijtimoiy xavfsizlik. texnik xavfsizlik
+====
+axborot xavfsizligi. Iqtisodiy xavfsizlik.  moliyaviy xavfsizligi. Ijtimoiy xavfsizlik. Ekologik xavfsizlik
+====
+barcha javoblar to’g’ri
+
+++++
+
+Bir tomonlama autentifikatsiya nimani ko’zda tutadi?
+====
+# Bir tomonga yo‘naltirilgan axborot almashinuvini ko‘zda tutadi.
+====
+bir tomonga yo‘naltirilgan axborot almashinuvini ko‘zda tutmaydi
+====
+qat’iy autentifikatsiyalash
+====
+identifikatorlarga ega bo’lgan foydalanuvchi
+
+++++
+
+Birinchi polimorf viruslari yaratilgan yil?
+====
+# 1990 Yil
+====
+1998 yil
+====
+1955 yil
+====
+1966 yil
+
+++++
+
+Jinoyat tashkilotlari professional cyberattacks moliyalashtirish boshladi?
+====
+# 2000 Yil tahdidlar diversifikatsiya va ko'payishi.
+====
+2000 yil tahdidlar diversifikatsiya, iqtisodiy, injener-texnik
+====
+Ma’naviy, yaxlitlik, tashkiliy-ma’muriy
+====
+Huquqiy, tashkiliy-injenerik, ma’muriy-texnik
+
+++++
+
+Qaysi yilda AQSh hukumati uchun Markaziy razvedka boshqarmasi sobiq xodimi Edvard Snouden milliy xavfsizlik agentligi (NSA)dan tasniflangan ma'lumotlarni ko'chirib chiqadi.
+====
+# 2013 Yil
+====
+2015 yil
+====
+2016 yil
+====
+2020 yil
+
+++++
+
+Qaysi yilda zararli xakerlar yahooga kirib, uning 3 milliard foydalanuvchisining hisoblari va shaxsiy ma'lumotlarini buzishdi?
+====
+# 2013-2014 Yillar
+====
+2000-2002 yillar
+====
+2011-2013 yillar
+====
+2009-2011 yillar
+
+++++
+
+WannaCry ransomware bir kunda 230,000 kompyuterlarini zaharlaydi qaysi yilda?
+====
+# 2017 Yil
+====
+2015 yil
+====
+2016 yil
+====
+2020 yil
+
+++++
+
+bir nechta DDoS hujumlari yangi Zelandiya fond bozorini vaqtincha yopishga majbur qildi?
+====
+# 2019 Yil
+====
+2015 yil
+====
+2016 yil
+====
+2020 yil
+
+++++
+
+ID.uz foydalanuvchilari nechta maqomga ega bo’lishi mumkin?
+====
+# 2 Ta
+====
+3 ta
+====
+1 ta
+====
+5 ta
+
+++++
+
+Qaysi yilda Kiberxavfsizlik internetning kashfiyotchisi ARPANET tadqiqot loyihasi bilan boshlandi
+====
+# 1972 Yil
+====
+1990 yil
+====
+1977 yil
+====
+1980 yil
+
+++++
+
+Kiberxavfsizlik siyosatning nechta asosiy turi mavjud
+====
+# 3 Turi
+====
+4 turi
+====
+5 turi
+====
+6 turi
+
+++++
+
+Kiberxavfsizlik siyosatning nechta asosiy turi mavjud?
+====
+# Masalaga xos siyosat, Tizimga xos siyosat, Tashkiliy siyosat
+====
+jarayonga xos siyosat, kompyuterga xos siyosat, Tashkiliy siyosat
+====
+masalaga xos siyosat, Tizimga xos siyosat, apparat siyosati
+====
+barcha javob noto’g’ri
+
+++++
+
+Kiber boshqaruv masalalari?
+====
+# Neytral neytrallik, Internet nomlari va raqamlari, Mualliflik huquqi va savdo belgilari, Elektron pochta va xabarlar
+==== 
+zararkunanda dasturlar, O'zini oshkor qilish, Tegishli tizimdan foydalanish
+==== 
+kiber jinoyatchilik, Geolokatsiya, Maxfiylik
+==== 
+o'zini oshkor qilish, Tegishli tizimdan foydalanish, Kiber jinoyatchilik 
+
+++++
+
+Kiber foydalanuvchilar bilan bog'liq muammolar
+====
+# Zararkunanda dasturlar, O'zini oshkor qilish, Tegishli tizimdan foydalanish, Kiber jinoyatchilik, Geolokatsiya, Maxfiylik.
+==== 
+intellektual mulkni o'g'irlash, Kiber josuslik, Kiber -sabotaj, Kiber urush
+==== 
+neytral neytrallik, Internet nomlari va raqamlari
+==== 
+barcha javob noto’g’ri
+
+++++
+
+Kompyuter viruslari-…..
+====
+# Ko‘payish, dasturlarda o‘rnashish, aloqa liniyalari, ma’lumotlarni uzatish tarmoqlari bo‘yicha uzatilish, boshqarish tizimlarni ishdan chiqarish va shunga o‘xshash qobiliyatlarga ega
+====
+signal bo‘yicha yoki o‘rnatilgan vaqtda harakatga keltirish maqsadida harbiy yoki fuqaro infrastrukturalariga o‘rnatiluvchi dasturlanmagan qurilmalar
+====
+telekommunikatsiya tarmoqlarida axborot almashinuvini bostirish vositalari, davlat va harbiy boshqaruv kanallarida axborotni soxtalashtirish
+====
+barcha javob noto’g’ri 
+
+++++
+
+Kiberxavfsizlik sohasi bu ?
+====
+# Hisoblashga asoslangan bilim sohasi bo‘lib, buzg‘unchilar mavjud bo‘lgan sharoitda amallarni kafolatlash uchun o‘zida texnologiya, inson, axborot va jarayonni mujassamlashtirgan.
+====
+hisoblashga asoslangan bilim sohasi bo‘lib, kirishni cheklamaydigan qoidalarni belgilaydi
+====
+ma'lumotlar o'zgartirilmasligi, o'chirilishi yoki noqonuniy foydalanilishi mumkin emasligini bildiradi va kirishni cheklaydigan qoidalarni belgilamaydi
+====
+barcha javoblar to’g’ri
+
+++++
+
+Kiber mojarolar ?
+====
+# Intellektual mulkni o'g'irlash, Kiber josuslik, Kiber -sabotaj, Kiber urush
+==== 
+zararkunanda dasturlar, O'zini oshkor qilish, Tegishli tizimdan foydalanish
+==== 
+kiber jinoyatchilik, Geolokatsiya, Maxfiylik
+==== 
+tegishli tizimdan foydalanish, Kiber jinoyatchilik 
+
+++++
+
+Kiberxavfsizlikning uchta asosiy tushunchalari qaysilar?
+====
+# Konfidentsiallik, yaxlitlik va mavjudlik.
+====
+konfidentsiallik, aniqlilik va ishonchlilik
+====
+yaxlitlik, tushunarlilik va ishonchlilik
+====
+mavjudlik, tushunarlilik va yaxlitlik
+
+++++
+
+Maxfiylik-….
+====
+# U ma'lumotlarga kirishni cheklaydigan qoidalarni belgilaydi. Maxfiylik maxfiy ma'lumotlarni kiberhujumchilar va xakerlarga kirishni cheklash choralarini ko'radi
+====
+bu vaqt davomida ma'lumotlarning izchil, aniq va ishonchli ekanligiga ishonch hosil qiladi
+====
+dasturiy ta'minot, tarmoqlar, qurilmalar va xavfsizlik uskunalari kabi barcha zarur komponentlarning mavjudligi ta'minlanishi va yangilanishi kerak
+====
+signal bo‘yicha yoki o‘rnatilgan vaqtda harakatga keltirish maqsadida harbiy yoki fuqaro infrastrukturalariga o‘rnatiluvchi dasturlangan qurilmalar
+
+++++
+
+Butunlik-….
+====
+# Bu vaqt davomida ma'lumotlarning izchil, aniq va ishonchli ekanligiga ishonch hosil qiladi. 
+====
+u ma'lumotlarga kirishni cheklaydigan qoidalarni belgilaydi. Maxfiylik maxfiy ma'lumotlarni kiberhujumchilar va xakerlarga kirishni cheklash choralarini ko'radi
+====
+dasturiy ta'minot, tarmoqlar, qurilmalar va xavfsizlik uskunalari kabi barcha zarur komponentlarning mavjudligi ta'minlanishi va yangilanishi kerak
+====
+signal bo‘yicha yoki o‘rnatilgan vaqtda harakatga keltirish maqsadida harbiy yoki fuqaro infrastrukturalariga o‘rnatiluvchi dasturlangan qurilmalar
+
+++++
+
+Mavjudligi-…
+====
+# Dasturiy ta'minot, tarmoqlar, qurilmalar va xavfsizlik uskunalari kabi barcha zarur komponentlarning mavjudligi ta'minlanishi va yangilanishi kerak
+====
+signal bo‘yicha yoki o‘rnatilgan vaqtda harakatga keltirish maqsadida harbiy yoki fuqaro infrastrukturalariga o‘rnatiluvchi dasturlangan qurilmalar
+====
+bu vaqt davomida ma'lumotlarning izchil, aniq va ishonchli ekanligiga ishonch hosil qiladi
+====
+u ma'lumotlarga kirishni cheklaydigan qoidalarni belgilaydi. Maxfiylik maxfiy ma'lumotlarni kiberhujumchilar va xakerlarga kirishni cheklash choralarini ko'radi
+
+++++
+
+kiber infratuzilma muammolari 
+====
+# Bank va moliya, sog'liqni saqlash, sanoat nazorati tizimlari.
+====
+neytral neytrallik, Internet nomlari va raqamlari, Mualliflik huquqi va savdo belgilari 
+====
+o'zini oshkor qilish, Tegishli tizimdan foydalanish, Kiber jinoyatchilik 
+====
+geolokatsiya, Maxfiylik 
+
+++++
+
+Intellektual inqilob natijasida ……-yillardan e'tiboran davlatlar kiberdunyo taqdim etgan imkoniyatlardan o‘z harbiy salohiyatlarini rivojlantirish yo‘lida ham foydalana boshladilar.?
+====
+# 1990 Yil
+====
+1997 yil
+====
+1998 yil
+====
+1991 yil
+
+++++
+
+O’z DSt 1092:2009 yilda qanday standart ishlab chiqilgan?
+====
+# «Axborot texnologiyasi. Axborotning kriptografik muhofazasi. Elektron raqamli imzoni shakllantirish va tekshirish jarayonlari»;)
+====
+«Axborot texnologiyasi. Axborotning kriptografik muhofazasi. Ma’lumotlarni shifrlash algoritmi»;
+====
+«Axborot texnologiyasi. Axborotning kriptografik muhofazasi. Atama va ta’riflar»;
+====
+«Axborot texnologiyasi. Axborotning kriptografik muhofazasi. Kriptografik modullarga oid xavfsizlik talablari »; 
+
+++++
+
+Tarmoqlarda paket filtrlari quyidagilarni nazorat qiladi ?
+====
+# Fizik interfeys, paket qaerdan keladi; Manbaning IP manzili; Qabul qiluvchining IP manzili;)
+====
+Fizik interfeys, paket qaerdan keladi; Manbaning IP manzili; Qabul qilmaydigan IP manzili;
+====
+Fizik interfeys, paket qaerdan kelmaydi; Manbaning IP manzili; Qabul qiluvchining IP manzili;
+====
+Fizik interfeys, paket qaerdan keladi; Manbaning IP manzili; Qabul qiluvchining IP manzili; Offis dasturlari;
+
+++++
+
+O’z DSt 1105:2009 yilda qanday standart ishlab chiqilgan?
+====
+# «Axborot texnologiyasi. Axborotning kriptografik muhofazasi. Ma’lumotlarni shifrlash algoritmi»;)
+====
+«Axborot texnologiyasi. Axborotning kriptografik muhofazasi. Elektron raqamli imzoni shakllantirish va tekshirish jarayonlari»;
+====
+«Axborot texnologiyasi. Axborotning kriptografik muhofazasi. Atama va ta’riflar»;
+====
+«Axborot texnologiyasi. Axborotning kriptografik muhofazasi. Kriptografik modullarga oid xavfsizlik talablari »; 
+
+++++
+
+NAT ?
+====
+# Network Address Translation.
+====
+Network Address Transpation
+====
+Network Address Transmission
+====
+Barcha javoblar noto’g’ri
+
+++++
+
+Amaliy sath tarmoqlari ekranlari…?
+====
+# Ushbu TE lar bog‘lanish o‘rnatishdan oldin tarmoq paketlarini aynan amaliy sathga mosligini baholaydi.
+====
+ushbu TE lar bog‘lanish o‘rnatishdan keyin tarmoq paketlarini aynan amaliy sathga mosligini baholaydi
+====
+ushbu TE lar bog‘lanish o‘rnatishdan oldin tarmoq paketlarini aynan amaliy sathga mosligini baholamaydi
+====
+ushbu TE lar bog‘lanish o‘rnatishdan oldin va keyin tarmoq paketlarini aynan amaliy sathga mosligini baholaydi
+
+++++
+
+Nechinchi yilning boshida virtual xususiy tarmoq VPN konsepsiyasi yaratildi?
+====
+# 1990 Yilning boshida
+====
+1991 yilning boshida
+====
+1992 yilning boshida
+====
+1993 yilning boshida
+
+++++
+
+O’z DSt 1106:2009 yilda qanday standart ishlab chiqilgan?
+====
+# «Axborot texnologiyasi. Axborotning kriptografik muhofazasi. Xeshlash funksiyasi»;)
+====
+«Axborot texnologiyasi. Axborotning kriptografik muhofazasi. Elektron raqamli imzoni shakllantirish va tekshirish jarayonlari»;
+====
+«Axborot texnologiyasi. Axborotning kriptografik muhofazasi. Elliptik egri chiziqlarga asoslangan elektron raqamli imzoni shakllantirish va tekshirish jarayonlari»;
+====
+«Axborot texnologiyasi. Axborotning kriptografik muhofazasi. Kriptografik modullarga oid xavfsizlik talablari »; 
+
+++++
+
+O’z DSt 1108:2009 yilda qanday standart ishlab chiqilgan?
+====
+# «Axborot texnologiyasi. Ochiq tizimlar o‘zaro bog‘liqligi. ERI ochiq kaliti  sertifikati va atribut sertifikatining tuzilmasi»;)
+====
+«Axborot texnologiyasi. Axborotning kriptografik muhofazasi. Kriptografik modullarga oid xavfsizlik talablari »; 
+====
+«Axborot texnologiyasi. Axborotning kriptografik muhofazasi. Elliptik egri chiziqlarga asoslangan elektron raqamli imzoni shakllantirish va tekshirish jarayonlari».
+====
+«Axborot texnologiyasi. Axborotning kriptografik muhofazasi. Kriptografik modullarga oid xavfsizlik talablari »; 
+
+++++
+
+Texnik amalga oshirish bo‘yicha VPNning quyidagi guruhlari farqlanadi?
+====
+# Marshrutizatorlar asosidagi VPN; tarmoqlararo ekranlar asosidagi VPN; dasturiy ta’minot asosidagi VPN; ixtisoslashtirilgan apparat vositalari asosidagi VPN.
+====
+Marshrutizatorlar asosidagi VPN; tarmoq paketlari asosidagi VPN; dasturiy ta’minot asosidagi VPN; ixtisoslashtirilgan apparat vositalari asosidagi VPN
+====
+Marshrutizatorlar asosidagi VPN; tarmoqlararo ekranlar asosidagi VPN; dasturiy ta’minot asosidagi VPN; amaliy sathga asosidagi VPN
+====
+Marshrutizatorlar asosidagi VPN; tarmoqlararo ekranlar asosidagi VPN; IP manzili asosidagi VPN; ixtisoslashtirilgan apparat vositalari asosidagi VPN
+
+++++
+
+Marshrutizatorlar asosidagi VPN qurishning ushbu usuliga binoan himoyalangan kanallarni yaratishda nimlardan foydalaniladi?
+====
+# Marshrutizatorlardan
+====
+dasturiy ta’minotlardan
+====
+tarmoqlararo ekranlaran
+====
+ixtisoslashtirilgan apparat vositalarin
+
+++++
+
+Marshrutizator asosidagi VPN asbob-uskunalariga misol tariqasida Cisco-Systems kompaniyasining qurilmalarini ko‘rsatish mumkin?
+====
+# VPN, Cisco-Systems.
+====
+Cisco, VPN -Systems 
+====
+IP -Systems 
+====
+VPN-Systems, Cisco IP
+
+++++
+
+O’z DSt 1204:2009 yilda qanday standart ishlab chiqilgan?
+====
+# «Axborot texnologiyasi. Axborotning kriptografik muhofazasi. Kriptografik modullarga oid xavfsizlik talablari »;)
+====
+«Axborot texnologiyasi. Axborotning kriptografik muhofazasi. Elektron raqamli imzoni shakllantirish va tekshirish jarayonlari»;
+====
+«Axborot texnologiyasi. Axborotning kriptografik muhofazasi. Elliptik egri chiziqlarga asoslangan elektron raqamli imzoni shakllantirish va tekshirish jarayonlari».
+====
+«Axborot texnologiyasi. Axborotning kriptografik muhofazasi. Kriptografik modullarga oid xavfsizlik talablari »; 
+
+++++
+
+Simsiz mobil tarmoqlarning xavfsizligini nechta asosiy xizmat ta’minlab beradi?
+====
+# 3 Ta
+====
+4 ta
+====
+2 ta
+====
+5 ta
+
+++++
+
+Himoyalangan ulanishlar protokoli – Secure Sockets Layer (SSL) qanday vazifada qo’llaniladi?
+====
+# Internet brauzerlarining xavfsizligi muammosini yechish uchun yaratilgan.
+====
+internet fayllarining xavfsizligi muammosini yechish uchun yaratilgan
+====
+tarmoq fayllarining xavfsizligi muammosini yechish uchun yaratilgan 
+====
+tarmoq tarfiklarining xavfsizligi muammosini yechish uchun yaratilgan 
+
+++++
+
+SSL/TLSning asosiy vazifasi tarmoq trafigini yoki gipermatnni uzatish protokoli ……. ni himoyalashdir.?
+====
+# HTTP.
+====
+FTP 
+====
+UDP
+====
+HTTPS
+
+++++
+
+SSL/TLS ulanishlarni …………………va ……………. uchun ishlatiladi.
+====
+# Autentifikatsiyalash va shifrlash
+====
+identifikatsiyalash va shifrlash
+====
+himoyalash va shifrlash
+====
+autentifikatsiyalash va identifikatsiyalash
+
+++++
+
+…………. - bu dasturlar va operatsion tizimning muhim dasturiy va tadbirlari to'g'risidagi ma'lumotlarni yozib olish va markazlashtirish uchun standart usul.?
+====
+# Hodisalarni (voqea) yozib boorish
+====
+dastur ish faoliyatida bo’lmaganda hodisalarni (voqea) yozib boorish
+====
+markazlashmagan tizimlarda bo’lmaganda hodisalarni (voqea) yozib boorish
+====
+barcha javoblar noto’g’ri
+
+++++
+
+………… - har xil jarayonlar orqali ma'lumotlarni yo'qolishi sababli ushbu ma'lumotlarni qayta tiklashga imkon beradigan tizimlarni sozlash jarayoni?
+====
+# Zaxira va tiklash 
+====
+zaxira va tuzatish 
+====
+tiklash va barqarorligi 
+====
+barcha javoblar noto’g’ri
+
+++++
+
+Mustaqillik yillarida qabul qilingan O‘zbekiston Respublikasining «Elektron hujjat aylanishi to‘g‘risidagi», «Elektron tijoraat to‘g‘risidagi» qonun va farmonlari qachon qabul qilingan?
+====
+# 2004 Yil  29 aprel
+====
+2003 yil  29 aprel
+====
+2002 yil  29 aprel
+====
+2001 yil  29 aprel
+
+++++
+
+Dumpster dasturi qaysi davlatining dasturchilari tomonidan foydalanishga topshirildi.?
+====
+# IsroiL 
+====
+Angliya 
+====
+Fransiya
+====
+Germaniya
+
+++++
+
+Ma'lumotni tiklash texnikasi?
+====
+# Bu kompyuterda yo'q qilingan, foydalanib bo'lmaydigan, buzilgan yoki formatlangan ma'lumotlarni, saqlanishda, ularda saqlangan ma'lumotlarga kirishning iloji bo'lmaganda tiklash jarayoni 
+====
+bu kompyuterda yo'q qilinmagan, foydalanib bo'lmaydigan, buzilgan yoki formatlangan ma'lumotlarni, saqlanishda, ularda saqlangan ma'lumotlarga kirishning iloji bo'lmaganda tiklash jarayoni 
+====
+bu kompyuterda yo'q qilingan, foydalanib bo'ladigan, buzilgan yoki formatlangan ma'lumotlarni, saqlanishda, ularda saqlangan ma'lumotlarga kirishning iloji bo'lmaganda tiklash jarayoni 
+====
+bu kompyuterda yo'q qilingan, foydalanib bo'lmaydigan, buzilgan yoki formatlangan ma'lumotlarni, saqlanishda, ularda saqlangan ma'lumotlarga kirishning iloji bo'lganda tiklash jarayoni
+
+++++
+
+Mustaqillik yillarida qabul qilingan O‘zbekiston Respublikasining «Elektron hujjat aylanishi to‘g‘risidagi», «…………………… » qonun va farmonlari qachon qabul qilingan?
+====
+# Elektron tijoraat to‘g‘risidagi.
+====
+Elektron siyosat to‘g‘risidagi
+====
+Elektron hukumat to‘g‘risidagi
+====
+Elektron hisob to‘g‘risidagi
+
+++++
+
+Mustaqillik yillarida qabul qilingan O‘zbekiston Respublikasining «Avtomatlashtirilgan bank tizimida axborot muhofazasi to‘g‘risidagi»  qonun va farmonlari qachon qabul qilingan?
+# 2005 Yil  16 noyabr
+2006 yil  16 noyabr
+2004 yil  16 noyabr
+2000 yil  16 noyabr
+
+++++
+
+Mustaqillik yillarida qabul qilingan O‘zbekiston Respublikasining «Kompyuterlashtirishni yanada rivojlantirish va axborot-kommunikatsiya texnologiyalarini joriy etish to‘g‘risidagi»  qonun va farmonlari qachon qabul qilingan?
+====
+# 2002 Yil 30 may
+====
+2004 yil 30 may
+====
+2004 yil  16 noyabr
+====
+2001 yil 31may
+
+++++
+
+Mustaqillik yillarida qabul qilingan O‘zbekiston Respublikasining «O‘zbekiston Respublikasida axborotning kriptografik himoyasini tashkil etish chora-tadbirlari to‘g‘risida»  qonun va farmonlari qachon qabul qilingan?
+====
+# 2007 Yil 3 aprel
+====
+2004 yil 30 may
+====
+2004 yil  16 noyabr
+====
+2008 yil 3 aprel
+
+++++
+
+Eng yaxshi bepul bulutli zaxiralash xizmatlari?
+====
+# IDrive. ICloud. Degoo. 
+====
+IDrive. ICloud. Docx
+====
+IDrive. Docx. Degoo
+====
+Docx. ICloud. Degoo
+
+++++
+
+Differentsial zaxira?
+====
+# Differentsial zaxira kengaytirilgan zaxiralash 
+====
+differentsial zaxira kengaytirilmagan zaxiralash
+====
+differentsial zaxira kengaytirilmagan tiklash
+====
+differentsial zaxira kengaytirilgan va kengaytirilmagan zaxiralash
+
+++++
+
+Mustaqillik yillarida qabul qilingan O‘zbekiston Respublikasining «O‘zbekiston Respublikasining Milliy axborot-kommunikatsiya tizimini yanada rivojlantirish chora-tadbirlari to‘g‘risida»  qonun va farmonlari qachon qabul qilingan?
+====
+# 2013 Yil 27 iyun
+====
+2004 yil 30 may
+====
+2014 yil 27 iyun
+====
+2008 yil 3 aprel
+
+++++
+
+GT Recovery dasturi boshqa dasturlardan nimasi bilan ajralib turadi? 
+====
+# Katta hajmdagi  FAT, EXT3, EXT4 formatli habarlarni osonlik bilan qayta tiklay oladi
+====
+kichik hajmdagi  FAT, EXT3, EXT4 formatli habarlarni osonlik bilan qayta tiklay oladi
+====
+o’rta hajmdagi  FAT, EXT3, EXT4 formatli habarlarni osonlik bilan qayta tiklay oladi
+====
+barcha javoblar noto’g’ri
+
+++++
+
+............ faylni tiklash (avval Auslogics Favqulodda tiklash) tasodifan o'chirilgan fayllarni tiklaydi.
+====
+# Auslogics dasturi.
+====
+MiniTool Power Data Recovery dasturi
+====
+Handy Recovery dasturi
+====
+Barcha javoblar noto’g’ri
+
+++++
+
+Android-antiviruslar ikkita parametrga asoslaymiz bular qaysilar?
+====
+# Himoya – tahdidlarni samarali aniqlash qobiliyati, Yuzabiliti – mobil qurilmaning ishlashiga ta’siri.
+====
+himoya – tahdidlarni samarali aniqlamaydigan qobiliyati, Yuzabiliti – mobil qurilmaning ishlashiga ta’siri.
+====
+himoya – tahdidlarni samarali aniqlash qobiliyati, Hujum – mobil qurilmaning  ta’siri.
+====
+himoya – tahdidlarni samarali aniqlash qobiliyati, tizimli – mobil qurilmaning ishlashiga ta’siri.
+
+++++
+
+…….. - bu xavfsizlikni boshqarish vositalarining (xavfsizlikka qarshi choralar) joylashishini va ularning umumiy tizim arxitekturasiga qanday aloqadorligini tasvirlaydigan dizayn artefaktlari.
+====
+# Xavfsizlik arxitekturasi
+====
+xavfsizlik siyosati
+====
+xavfsizlik darajasi
+====
+xavfsizlik turlari
+
+++++
+
+…. — bu ularning ishlash tamoyili ћar bir tekshiriluvchi ob’ektdan (fayldan, yuklovchi sektordan, tizimli reestrdan) nazorat summasini o‘qib olib, uni tegishli ma’lumotlar bazasida saqlashdan iborat.
+====
+# O‘zgarishlarni qayd qiluvchi revizorlar
+====
+skanerlar
+====
+virus ћarakatini cheklovchi blokiratorlar
+====
+barcha javoblar to’g’ri
+
+++++
+
+…… - bu sub'ektlar bir-biriga qanday kirishlari, turli sub'ektlar qanday operatsiyalarni amalga oshirishi, tizim yoki dasturiy mahsulot uchun qanday himoya darajasi talab qilinishi va ushbu talablar bajarilmasa qanday harakatlar qilinishi kerakligi bayonati berilganligi.
+====
+# Xavfsizlik siyosati
+====
+xavfsizlik arxitekturasi
+====
+xavfsizlik darajasi
+====
+xavfsizlik turlari
+
+++++
+
+Kompyuter tizimi turli xil tarkibiy qismlardan iborat apparat komponentlarini ko’rsating?
+====
+# CPU, saqlash moslamalari, kirish / chiqish qurilmalari, aloqa qurilmalari
+====
+operatsion tizimlar, amaliy dasturlar
+====
+virus ћarakatini cheklovchi blokiratorlar
+====
+kirish / chiqish qurilmalari, aloqa qurilmalari, amaliy dasturlar
+
+++++
+
+Framework bu - ?
+====
+# Dasturiy tizimning tuzilishini belgilaydigan dastur; yirik dasturiy ta'minot loyihasining turli xil tarkibiy qismlarini ishlab chiqish va birlashtirishga yordam beradigan dastur.
+====
+dasturiy tizimning tuzilishini belgilaydigan dastur; yirik dasturiy ta'minot loyihasining turli xil tarkibiy qismlarini ishlab chiqish va birlashtirishga yordam bermaydigan dastur
+====
+bu korxona xavfsizligi arxitekturasi va xizmatlarini boshqarish uchun asos va uslubidir
+====
+IT (axborot texnologiyalari) boshqaruviga yo'naltirilgan xalqaro professional birlashma
+
+++++
+
+SABSA (Sherwood Applied Business Security Architecture) qanday xavfsizlik arxitekturasi ?
+====
+# Amaliy xavfsizlik arxitekturasi
+====
+nazariy xavfsizlik arxitekturasi
+====
+amaliy va nazariy xavfsizlik arxitekturasi
+====
+barcha javoblar noto’g’ri
+
+++++
+
+Axborotning zaif tomonlarini kamaytiruvchi axborotga ruxsat etilmagan kirishga, uning chiqib ketishiga va yuqotilishiga to‘sqinlik qiluvchi tashkiliy, texnik, dasturiy, texnologik va boshqa vosita, usul va choralarning kompleksi - ?
+====
+# Axborotni himoyalash tizimi
+====
+axborotni buzish tizimi
+====
+axborotni tashkil qiluvchi tizimi
+====
+axborotni zaif tomonlarini kamaytiruvchi tizimi
+
+++++
+
+Tarmoqlararo ћimoya ekrani inglizcha nomini toping
+====
+# FIREWALL
+====
+Network
+====
+Xavfsiz tarmoq 
+====
+Brandmauer tarmoq
+
+++++
+
+Tarmoq resurslarini ћimoya qilishda quyidagi ikki ћolattga ko‘proq e’tibor qaratiladi bular qaysilar?
+====
+# Dasturning bajarilishi va unda axborotlarning uzatilishi jarayonlarini ruxsatsiz ko‘rishdan (yoki kuzatishdan) ћimoyalash; Bajarilayotgan dastur va unga tegishli ma’lumotlarni ruxsatsiz ko‘chirish va tarqatishdan ћimoyalash.
+====
+dasturning bajarilishi va unda axborotlarning uzatilishi jarayonlarini ruxsatsiz ko‘rishdan (yoki kuzatishdan) ћimoyalamaydi; Bajarilayotgan dastur va unga tegishli ma’lumotlarni ruxsatsiz ko‘chirish va tarqatishdan ћimoyalash.
+====
+dasturning bajarilishi va unda axborotlarning uzatilishi jarayonlarini ruxsatsiz ko‘rishdan (yoki kuzatishdan) ћimoyalash; Bajarilayotgan dastur va unga tegishli ma’lumotlarni ruxsatli ko‘chirish va tarqatishdan ћimoyalash.
+====
+barcha javoblar noto’g’ri
+
+++++
+
+Axborotlarni tashkiliy  himoyalash elementlari qanday bog‘lovchi omil bo‘lib hisoblanadi?
+====
+# Yagona tizimga
+====
+sanoqli tizimga
+====
+sanoqsiz tizimga
+====
+barcha javoblar noto’g’ri
+ 
+++++
+
+Axbortlarni himoyalashning tashkiliy chora – tadbirlari tashkilot xavfsizligi xizmatining nimalarda o‘z aksini topadi?
+====
+# Me’yoriy uslubiy hujjatlarida
+====
+tashkiliy uslubiy hujjatlarida
+====
+texnik uslubiy hujjatlarida
+====
+barcha javoblar noto’g’ri
+
+++++
+
+Axborotni himoyalashning dasturiy – matematik elementi kompyuter, lokal tarmoq va turli axborot tizimlarida qayta ishlanadigan va saqlanadigan qimmatli axborotlarni nima qilish uchun mo‘ljallangan
+====
+# Himoyalash
+====
+skanerlash
+====
+filtrlash
+====
+tekshirish
+
+++++
+
+Kompyuter tizimi (tarmogi)ga ziyon yetkazishi mumkin bo‘lgan sharoit, harakat va jarayonlar uchun nima hisoblanadi.
+====
+# Xavf – xatarlar
+====
+himoya va hatarlar
+====
+xavfsizlik tizimi
+====
+barcha javoblar noto’g’ri
+
+++++
+
+Port #21: FTP (File Transfer Protocol) vazifasi?
+====
+# Fayl almashish protokoli.
+====
+xususiy printer server
+====
+gipermatn almashish protokoli
+====
+E-mail portokoli
+ 
+++++
+
+Port #80: HTTP traffic (Hypertext Transfer [Transport] Protocol) vazifasi?
+====
+# Gipermatn almashish protokoli.
+====
+xususiy printer server
+====
+fayl almashish protokoli
+====
+E-mail portokoli
+
+++++
+
+Port #110: POP3 (Post Office Protocol 3) vazifasi?
+====
+# E-mail portokoli.
+====
+xususiy printer server
+====
+fayl almashish protokoli
+====
+gipermatn almashish protokoli
+
+++++
+
+Axborot texnologiyalari xavfi yoki IT-xavf – bu?
+====
+# Axborot texnologiyalaridan foydalanish bilan bog'liq har qanday xavf.
+====
+turli xil hodisalarning yuzaga kelish ehtimoli
+====
+IT xavfini baholash
+====
+zaifliklar va aktivlar hajmi kabi bog'liq omillarni baholash
+
+++++
+
+IT xavflarini o'lchashning alternativ usullari odatda nimalarni uz ichiga oladi?
+====
+# Tahdidlar, zaifliklar va aktivlar hajmi kabi bog'liq omillarni baholashni o'z ichiga oladi
+====
+axborot texnologiyalaridan foydalanish bilan bog'liq har qanday xavf
+====
+turli xil hodisalarning yuzaga kelish ehtimoli
+====
+zaifliklar va aktivlar hajmi kabi bog'liq omillarni baholash
+
+++++
+
+Xavfni minimallashtirish – bu?
+====
+# Tashkilot uchun umumiy xavfni kamaytirish uchun choralar ko'rish
+====
+tahdidlar, zaifliklar va aktivlar hajmi kabi bog'liq omillarni baholashni o'z ichiga oladi
+====
+axborot texnologiyalaridan foydalanish 
+====
+turli xil hodisalarning yuzaga keltirish
+
+++++
+
+Qaysi  yilning 3 apreldagi «O‘zRda axborotning kriptografik muhofazasini tashkil etish chora-tadbirlari to‘g‘risida» PQ-614–son qarorining asosiy vazifalaridan biri hisoblanadi?
+====
+# 2007 Yil 
+====
+2008 yil
+====
+2009 yil
+====
+2010 yil
+
+++++
+
+Kompyuter kriptografiyasi davrining birinchi muhim  voqeasi simmetrik  kriptotizimlarning birinchi sinfi bo‘lgan qanday shifrlar yuzaga keladi?
+====
+# Blokli
+====
+blokli va bloksiz
+====
+bloksiz
+====
+blokli simmetrik
+
+++++
+
+Zaifliklarni tatbiqiy hamda tizimli sathlarda tezdan samarali qidirishni amalga oshiruvchi tarmoq xavfsizligi skaneri. Ushbu skaner har qanday ko‘lamli tarmoqlarda xavfsizlik maqomini nazoratlashning samarali tizimini barpo etadi. Bu qanday Himoyalanganlikni taxlillovchi dastur?
+====
+# XSpider 7.8.
+====
+tarmoq revizori
+====
+tarmoqlararo ekran texnologiyasi
+====
+bitlocker
+
+++++
+
+Identifikatsiya (Identification) - ?
+====
+# Foydalanuvchini uning identifikatori  (nomi) bo‘yicha aniqlash jarayoni
+====
+foydalanuvchini uning identifikatori  (nomi) bo‘yicha aniqlanmaydigan jarayoni.
+====
+foydalanuvchini uning identifikatori  (paroli) bo‘yicha aniqlash jarayoni
+====
+foydalanuvchini uning autentifikatsiyasi  (nomi) bo‘yicha aniqlash jarayoni
+
+++++
+
+ruxsatsiz foydalanishga urinishlarni bartaraf etishga mo‘ljallangan tarmoq skaneri. Tarmoq revizori TCP/IP steki protokollaridan foydalanuvchi o‘rnatilgan tarmoq dasturiy va apparat ta’minoti zaifliklarini aniqlash uchun ishlatiladi. Bu qanday Himoyalanganlikni taxlillovchi dastur?
+====
+# Tarmoq revizori
+====
+xSpider 7.8
+====
+skaner BC
+====
+bitlocker
+
+++++
+
+Foydalanuvchilarning Internetdan foydalanishlarini, trafikni qayd etishni va filtrlashni, resurslarni tashqi xujumlardan himoyalashni tashkil etishga mo‘ljallangan.
+====
+# Usergateproxy&Firewall
+====
+trust access
+====
+security studio endpoint protection
+====
+cisco ids/ips
+
+++++
+
+….. — ma’lum qilingan foydalanuvchi, jarayon yoki qurilmaning	haqiqiy ekanligini tekshirish muolajasi.?
+====
+# Autentifikatsiya (Authentication)
+====
+autentifikatsiya (Authentication) Identification
+====
+autentifikatsiya (Identification)
+====
+identification
+
+++++
+
+O'g'irlangan ma'lumotlar va shu ma’lumotlarga aloqador kiber jinoyatchilarning mahsulotlarini   tarqatish va sotish?
+====
+# Distribyutorlar
+====
+jinoyatchilar
+====
+tizim xostlari va provayderlari
+====
+tizim xostlari
+
+++++
+
+Amaliy sath tarmoqlari ekranlari?
+====
+# Ushbu TE lar bog‘lanish o‘rnatishdan oldin tarmoq paketlarini aynan amaliy sathga mosligini baholaydi.
+====
+ushbu TE lar bog‘lanish o‘rnatishdan oldin tarmoq paketlarini aynan amaliy sathga mosligini baholamaydi
+====
+ushbu TE lar bog‘lanish o‘rnatishdan keyin tarmoq paketlarini aynan amaliy sathga mosligini baholaydi.
+====
+ushbu TE lar bog‘lanish o‘rnatishdan oldin va keyin tarmoq paketlarini aynan amaliy sathga mosligini baholaydi.
+
+++++
+
+ISACA qanaqa tizim?
+====
+# Axborot texnologiyalarini (IT) boshqarish uchun yaratilgan tizim
+====
+yuklovchi sektorlar uchun tizim
+====
+dasturiy kodini izlash uchun yaaratilgan tizim
+====
+ma’lumotlarni yuklovchi sektorlar uchun tizim
+
+++++
+
+WLTS protokoli. Qaysi pratokollarga asoslangan?
+====
+# SSL/TLSga asoslangan.
+====
+SLL/TLSga asoslangan 
+====
+SSL/LLSga asoslangan 
+====
+SSL/TSSga asoslangan
+
+++++
+
+Internet brauzerlarda himoyalangan ulanishlar xavfsizligining muammosini yechish uchun yaratilgan protocol?
+====
+# SSL.
+====
+UDP 
+====
+FTP
+====
+HTTP
+
+++++
+
+IEEE 802.11 Wi Fi standartida qanday jarayon sodir bo’ladi?
+====
+# Simsiz shaxsiy va lokal tarmoq tashkil etish
+====
+simli-simsiz shaxsiy va lokal tarmoq tashkil etish
+====
+simsiz shaxsiy va simli shaxsiy tashkil etish
+====
+barcha javoblar noto’g’ri
+
+++++
+
+- bu ma'lumotni ruxsatsiz foydalanuvchi tomonidan osonlikcha ochib bo'lmaydigan o'qib bo'lmaydigan holda himoya qiladigan texnologiya?
+====
+# Diskni shifrlash
+====
+faylni shifrlash
+====
+rasmni shifrlash
+====
+videoni shifrlash
+
+++++
+
+Axborot aktivlarini hayotiy davrini boshqarish nima?
+====
+# Axborot korxona ichida foydalanilganda uni boshqarish xavfsizligini taminlash
+====
+korxona ichida pul mablag’larini boshqarish
+====
+dasturiy ta’minotini qo’riqlash
+====
+tashkilotni tashqi himoyalash
+
+++++
+
+Telegram dasturi qaysi pratakol asosida ishlaydi?
+====
+# MTProto.
+====
+MPProto,
+====
+NTProto,
+====
+MUProto,
+
+++++
+
+Shartli so'z yoki shaxsni yoki vakolatni tasdiqlash uchun mo'ljallangan belgilar to'plami?
+====
+# Parol
+====
+login
+====
+ma’murlash
+====
+autentifikatsiya
+	
+++++
+
+Vakolatga ega bo‘lgan foydalanuvchining tarmoqqa kirishi uchun belgilangan parol ma’lumotini qo‘lga kiritishga qaratilgan harakatlar? 
+====
+# Parollarga qaratilgan hujumlar
+====
+parollarga qaratilmagan hujumlar
+====
+parollarga qaratilgan imkoniyatlar
+====
+loginga qaratilgan hujumlar
+
+++++
+
+Autentifikatsiya jarayonida bir necha faktor ishlatilsa, bunday autentifikatsiya bu?
+====
+# Ko‘p faktorli deb yuritiladi
+====
+bir faktorli deb yuritiladi
+====
+ikki faktorli deb yuritiladi
+====
+faktorli deb yuritiladi
+
+++++
+
+X.509 standarti tavsiyalariga binoan qat’iy autentifikatsiyalashning quyidagi qaysi muolajalarda farqlanadi?
+====
+# Bir tomonlama autentifikatsiya; ikki tomonlama autentifikatsiya; uch tomonlama autentifikatsiya;
+====
+bir tomonlama autentifikatsiya; ikki tomonlama autentifikatsiya; to'rt tomonlama autentifikatsiya;
+====
+bir tomonlama autentifikatsiya; ikki tomonlama autentifikatsiya; to'rt tomonlama autentifikatsiya;
+====
+bir tomonlama autentifikatsiya; ikki tomonlama autentifikatsiya; uch tomonlama ma’murlash;
+
+++++
+
+Tashkilotning tizimlari uchun foydalanuvchini identifikatsiya qilish va autentifikatsiya qilish, foydalanish huquqlari va vakolat darajalarini o'z ichiga olgan dasturiy ta'minotdan iborat.
+====
+# Mantiqiy xavfsizlik nazorati
+====
+mantiqiy foydalanishni boshqarish
+====
+parollarga qaratilgan hujumlar
+====
+loginga qaratilgan hujumlar
+
+++++
+
+Dinamik parol – ?
+====
+# Bir marta ishlatilganidan so‘ng boshqa umuman ishlatilmaydigan parol
+====
+bir marta ishlatilmaydigan parol
+====
+bir marta ishlatilganidan so‘ng yana ishlatiladigan parol.
+====
+bir marta ishlatilgandan so’ng parolni o’chadi
+
+++++
+
+«Tashkilotning xavfsizlik siyosati» hujjati nima?
+====
+# Axborot xavfsizligining maqsad va prinsiplarini aniqlash uchun mo'ljallangan bulib,o'z navbatida axborot xavfsizligi obyektlari ro'yxati ko'rsatib o'tiladi
+====
+tashkilotda yangi axborot tizimini tatbiq etish jarayonlarini beligilab o'tish uchun mo'ljallangan
+====
+tashkilotda xodimlarni tanlashda va ular bilan ishlashda axborot xavfsizligini ta'minlash chora-tadbirlarini aniqlash uchun mo'ljallangan
+====
+tashkilotda yangi axborot tizimini tatbiq etish darajasini belgilash.
+
+++++
+
+«Tashkilotning xavfsizlik siyosati» hujjati kim tomonidan tasdiqlanadi?
+====
+# Tashkilot rahbari
+====
+xavfsizlik xodimi
+====
+kadrlar bo’limi
+====
+oddiy xodimlar tamonidan
+
+++++
+
+Simsiz tarmoqlar xavfsizligi protokollari qaysilar?
+====
+# LLC,  SSH, SSL/TLS.
+====
+802.1x,  SSH, SSL/TLS Dox,
+====
+WPA , IPSec, 802.11 pdf, 
+====
+SSL/TLS , , 802.11, IEEE 802.11 Word,
+
+++++
+
+Seans sathi  TE texnologiyasining kamchiliklari?
+====
+# TSR dan boshqa protokollar ruxsatini cheklay olmaslik; Yuqori sath protokollari uchun tekshiruvni tashkil  eta olmaslik; Cheklangan audit.
+====
+yuqori sath protokollari uchun tekshiruvni tashkil  eta olmaslik; Cheklangan audit Muayyan xost bilan bog‘lanishni ma’n qilish imkoniyati;  NAT dan foydalanib-ichki IP manrzillarni bekitish
+====
+qoidalarni testlash murakkabligi. Muayyan xost bilan bog‘lanishni ma’n qilish imkoniyati;  NAT dan foydalanib-ichki IP manrzillarni bekitish
+====
+NAT sxemasi ichki IP adreslarni “berkitadi”. Qo‘shimcha funksiyalarga ruxsat bekmaslik HTTP keshlash javoblari, URL ni filtrlash, autentifikatsiya
+
+++++
+
+uMail pochta qutisini ochish qaysi tizimdan ro’yhatdan o’tish kerak?
+====
+# ID.uz.
+====
+com.uz
+====
+IDD.uz
+====
+SSD.uz
+
+++++
+
+Korxona ichidagi individual foydalanuvchilarning rollari asosida tarmoqqa kirishni cheklash qaysi model?
+# RBAC modeli.
+====
+Amazon modeli,
+====
+Kirishni boshqarish,
+====
+Azure modeli,
+
+++++
+
+Autentifikatsiya jarayonida faqat bitta faktor ishlatilsa, bunday autentifikatsiya bu? 
+====
+# Bir faktorli deb yuritiladi
+====
+ikki faktorli deb yuritiladi
+====
+bir va ikki faktorli deb yuritiladi
+====
+ikki va uch faktorli deb yuritiladi
+
+++++
+
+Xizmat qilishdan voz kechish hujumidan himoyalanishning eng samarali yo‘llari quyidagilar?
+====
+# Tarmoqlararo ekranlar texnologiyasi (Firewall), IPsec protokoli.
+====
+tarmoqlararo ekranlar texnologiyasi (Firewall), IPsec protokoli, OSI modeli
+====
+tarmoqlararo ekranlar texnologiyasi (Firewall), UDP Protokoli
+====
+TCP/IP protokollar (Firewall), IPsec protokoli
+
+++++
+
+Ruxsatsiz kirishni aniqlash tizimi (IDS) ?
+====
+# Tizim yoki tarmoq xavfsizlik siyosatini buzib kirishga harakat qilingan usul yoki vositalar aniqlanadi
+====
+tizim yoki tarmoq xavfsizlik siyosatini buzmaydigan kirishga harakat qilingan usul yoki vositalar aniqlanadi
+====
+tizim yoki tarmoq xavfsizlik siyosatini buzib kirishga harakat qilingan usul yoki vositalar aniqlanmaydi
+====
+tizim yoki tarmoq xavfsizlik siyosatini buzib kirishga harakat qilinmagan usul yoki vositalar aniqlanadi
+
+++++
+
+Windows jurnallari-…..?
+====
+# Operatsion tizim tomonidan ilovalar, tizim komponentlari, xavfsizlik va ishga tushirish bilan bog’liq tizimga oid voqealarni ro’yhatdan o’tkazish uchun foydalaniladi
+====
+dasturlar va operatsion tizimning muhim dasturiy va tadbirlari to’g’risidagi ma’lumotlarni yozib olish va markazlashtirish uchun standart usul
+====
+ilovalar va xizmatlar tomonidan ularning ishlariga taalluqli voqealarni yozish uchun ishlatiladi
+====
+davomiylikning buzilishi bilan bog’liq qabul qilinishi mumkin bo’lmagan oqibatlarga yo’l qo’ymasdan jarayonni tiklash jarayonidir hamda xizmat ko’rsatish
+
+++++
+
+«Tashkilotning xavfsizlik siyosati» hujjati shakli qanday ko’rinishda bo’ladi
+====
+# Nizom
+====
+yo’riqnoma
+====
+ma’lumotnoma
+====
+og’zaki
+
+++++
+
+Mak-Elis kriptotizimida qanday tuzatuvchi kodlar ishlatiladi?
+====
+# Xatoliklarni tuzatuvchi kodlar ishlatiladi
+====
+xatoliklarni tuzatuvchi kodlar ishlatilmaydi
+====
+xatoliklarni tuzatmaydigan kodlar ishlatiladi
+====
+barcha javoblar noto’g’ri
+
+++++
+
+Tizim yoki tarmoq xavfsizlik siyosatini buzib kirishga harakat qilingan usul yoki vositalar aniqlanadi?
+====
+# Ruxsatsiz kirishni aniqlash tizimi 
+====
+ruxsatli kirishni aniqlash tizimi 
+====
+ruxsatsiz kirishni aniqlash fayli 
+====
+ruxsatsiz chiqishni aniqlash tizimi 
+
+++++
+
+Ruxsatsiz kirishni aniqlash tizimi qisqartirilgan nomini aniqlang ?
+====
+# IDS.
+====
+IBD,
+====
+ISD,
+====
+IIS,
+
+++++
+
+Qayd etish tizimda nima deyiladi?
+====
+# Ma’murlash
+====
+tasdiqlash
+====
+tekshirish 
+====
+yuqotish
+
+++++
+
+Konfidentsiallik, yaxlitlik va mavjudlik bu kiberxavfsizlikning qancha asosiy tushuchalari bor ?
+====
+# Kiberxavfsizlikning uchta asosiy tushuchalari
+====
+kiberxavfsizlikning oltita asosiy tushuchalari
+====
+kiberxavfsizlikning to’rtta asosiy tushuchalari
+====
+kiberxavfsizlikning ikkita asosiy tushuchalari
+
+++++
+
+«Yangi axborot tizimini tatbiq etish» hujjati kim tomonidan ishlab chiqiladi?
+====
+# Xavfsizlik masalalari bilan shug'ullanuvchi bo'lim tomonidan
+====
+tashkilot rahbari tomonidan
+====
+kadrlar bo’limi tomonidan
+====
+xavfsizlik xodimi
+
+++++
+
+Tahdidlarni yuzaga kelish sabablariga ko’ra :?
+====
+# Ehtimoliy tahdid,-ehtimol bo’lmagan tahdid
+====
+ehtimoli bo’lgan tahdidlar ,-tabiiy ofatlar
+====
+qasddan qilingan tahdidlar
+====
+ichki tahdidlar
+
+++++
+
+Axborotning tarqalishi – bu .....
+====
+# Bu aloqa kanallari va fizik makon orqali barcha sabablarga ko'ra, shu jumladan tutib olish va qayta yo'naltirish uchun tarqalganda yo'qolishi
+====
+texnik vositalar yordamida ma'lumot olishning noqonuniy usuli
+====
+ilovalar va xizmatlar tomonidan ularning ishlariga taalluqli voqealarni yozish uchun ishlatiladi
+====
+ma'lumotlarning tarqalishi, uni tarqatish yo'lida turli xil qurilmalarni o'rnatishni o'z ichiga oladi
+
+++++
+
+Tahdid nima ?
+====
+# Ma'naviy yoki moddiy zarar yetkazadigan potentsial yoki haqiqiy harakat
+====
+texnik vositalar bilan ishlov berilganda axborotning asosiy sifat xususiyatlari (xususiyatlari) ni buzish salohiyati
+====
+jinoiy maqsadlar uchun axborotni axborot tarkibi va mazmunining qisman yoki sezilarli o'zgarishi sifatida o'zgartirish
+====
+bevosita moddiy zarar yetkazish maqsadida axborotni yo'q qilish (yo'q qilish)
+
+++++
+
+… - parol, shaxsiy identifikatsiya kodi PIN (Personal Identification Number) hamda “so‘rov javob” xilidagi protokollarda namoyish etiluvchi maxfiy va ochiq kalitlarni ko‘rsatish.
+====
+# Biror narsani bilish asosida
+====
+biror narsaga egaligi asosida
+====
+qandaydir daxlsiz xarakteristikalar asosida
+====
+biror narsaga egaligi asosida va biror narsani bilish asosida
+
+++++
+
+Maxfiy axborotni oshkor qilmaslik to'g'risidagi majburiyat nimada aks etgan?
+====
+# Ish beruvchining maxfiy ma'lumotlardan foydalanishga nisbatan o'z huquqlarini cheklashga rozi bo'lgan huquqiy hujjatda
+====
+uz.Res. ning fuqarolik kodeksida
+====
+xodimning ishga qabul qilinganligi to'g'risidagi bo'yruqda
+====
+xodim va ish beruvchi o'rtasida tuzilgan kelishuv shartnomasida
+
+++++
+
+Xizmat qilishdan voz kechish hujumidan himoyalanishning eng samarali yo‘llarini ko’rsating?
+====
+# Tarmoqlararo ekranlar texnologiyasi (Firewall); ipsec protokoli.
+====
+tarmoqlararo ekranlar texnologiyasi (Firewall); UDP protokoli
+====
+tarmoqlararo ekranlar texnologiyasi (Firewall); FTP protokoli
+====
+tarmoqlararo ekranlar texnologiyasi (Firewall); mtpro, UDP, ipsec protokoli
+
+++++
+
+Tarmoq hujumning bu turi xizmat qilishdan voz kechish hujumi deb nomlanadi.
+====
+# DOS (Denial-of-service).
+====
+DOS (Denial-of-system),
+====
+DOS (system-of-service),
+====
+DOS (system-of-sabsa),
+
+++++
+
+Tarmoq orqali ma’lumot almashish mobaynida yuborilayotgan axborotni eshitish va o‘zgartirishga qarshi bir necha samarali natija beruvchi texnologiyalar mavjud:
+====
+# IPSec (Internet protocol security) protokoli; VPN (Virtual Private Network) virtual xususiy tarmoq;IDS (Intrusion Detection System) ruxsatsiz kirishlarni aniqlash tizimi.
+====
+IPSec (Internet protocol security) protokoli; UDP; IDS (Intrusion Detection System) ruxsatsiz kirishlarni aniqlash tizimi
+====
+IPSec (Internet protocol security) protokoli; VPN (Virtual Private Network) virtual xususiy tarmoq;IDS (Intrusion Detection System) ruxsatli kirishlarni aniqlash tizimi
+====
+Ob’ekt dasturiy ta’minotiga ayg‘oqchilar tomonidan atayin kiritiluvchi turli xil xatoliklar
+
+++++
+
+Ipsec (Internet protocol security) qanday vazifani bajaradi?
+====
+# Bu xavfsizlik protokollari hamda shifrlash algoritmlaridan foydalangan holda tarmoq orqali xavfsiz ma’lumot almashish imkonini beradi
+====
+modul arifmetikasidagi murakkab bo’lmagan amallarning bajarilishi zaruriyatini ko‘rsatish mumkin. Bu o‘z navbatida aytarlicha hisoblash resurslarini talab qiladi
+====
+ko‘payish, dasturlarda o‘rnashish, aloqa liniyalari, ma’lumotlarni uzatish tarmoqlari bo‘yicha uzatilish, boshqarish tizimlarni ishdan chiqarish va shunga o‘xshash qobiliyatlarga ega
+====
+ob’ekt dasturiy ta’minotiga ayg‘oqchilar tomonidan atayin kiritiluvchi turli xil xatoliklar
+
+++++
+
+SSL/TLS protokollari nima uchun yaratilgan 
+====
+# Himoyalangan ulanishlar protokoli – Secure Sockets Layer (SSL) Internet brauzerlarining xavfsizligi muammosini yechish uchun yaratilgan.
+====
+bu xavfsizlik protokollari hamda shifrlash algoritmlaridan foydalangan holda tarmoq orqali xavfsiz ma’lumot almashish imkonini beradi
+====
+himoyalangan ulanishlar protokoli – Secure system Layer (SSL) Internet brauzerlarining xavfsizligi muammosini yechish uchun yaratilgan
+====
+ko‘payish, dasturlarda o‘rnashish, aloqa liniyalari, ma’lumotlarni uzatish tarmoqlari bo‘yicha uzatilish, boshqarish tizimlarni ishdan chiqarish va shunga o‘xshash qobiliyatlarga ega
+
+++++
+
+SSH protokoli. Secure Shell protokoli, SSL/TLSkabi kommunikatsiyalarni himoyalash uchun qaysi yili yaratilgan
+====
+# 1995 Yil
+====
+1996 yil
+====
+1997 yil
+====
+1998 yil
+
+++++
+
+Xavf-xatarni taxlillash bu.....
+====
+# Tarmogining zaif elementlari taxlil- lanadi, takdidlar anikdanadi va bakolanadi, himoyaning optimal vositalari tanlanadi
+====
+xavfsizlik siyosatini amalga oshirish moliyaviy xarajatlarni kisoblash va masalalarni yechish uchun mos vositalarni tanlash bilan boshlanadi
+====
+utkaziladigan tadbirlar niyati buzuk odamlarning tarmokka bostirib kirishini doimo nazorat kilib turishni, axborot ob'ektini himoyalash tizimidagi "rakna"larni anikdashni, konfidentsial ma'lumotlardan ruxsatsiz foydalanish kollarini kisobga olishni talab etadi
+====
+xavfsizlikning muayyan tizimi buzilishining barcha xollariga operativ munosabat bildirishi, ularni taxlillashi va moliyaviy vositalarning maksimal tejalishini kisobga olgan kolda himoyaning zaruriy apparat va dasturiy vositalaridan foydalanadi
+
+++++
+
+Kiberxavfsizlik inson omilini strategiyalari?
+====
+# Kiber-ishchi kuchini rivojlantirish, Manfaatlar, etakchilik va Ishtirok, Ta'lim va xabardorlik
+====
+bu xavfsizlik protokollari hamda Kiber-ishchi kuchini rivojlantirish, Manfaatlar, etakchilik va Ishtirok, Ta'lim va xabardorlik
+====
+bu xavfsizlik protokollari hamda shifrlash algoritmlaridan foydalangan holda tarmoq orqali xavfsiz ma’lumot almashish imkonini beradi
+====
+himoyalangan ulanishlar protokoli – Secure system Layer (SSL) Internet brauzerlarining xavfsizligi muammosini yechish uchun yaratilgan.
+
+++++
+
+IT xavfsizligidagi ish faoliyatida asosiy inson omili?
+====
+# Mas'uliyatli va Mas'uliyatsiz
+====
+biror narsaga egaligi asosida qandaydir daxlsiz xarakteristikalar asosida.
+====
+biror narsaga egaligi asosida va
+====
+biror narsani bilish asosida
+
+++++
+
+Kiberxavfsizlikda inson xavfsizligi modeli?
+====
+# Kuzatish, ta'sir qilish, takomillashtirish
+====
+kuzatmaslik, ta'sir qilish, takomillashtirish
+====
+kuzatish, takomillashtirish
+====
+barcha jaavob noto’g’ri
+
+++++
+
+Xavfsizlik siyosatini amalga oshirish nima?
+====
+# Moliyaviy xarajatlarni kisoblash va masalalarni yechish uchun mos vositalarni tanlash bilan boshlanadi
+====
+tarmogining zaif elementlari taxlil- lanadi, takdidlar anikdanadi va bakolanadi, himoyaning optimal vositalari tanlanadi
+====
+xavfsizlik siyosatini amalga oshirish moliyaviy xarajatlarni kisoblash va masalalarni yechish uchun mos vositalarni tanlash bilan boshlanadi
+====
+utkaziladigan tadbirlar niyati buzuk odamlarning tarmokka bostirib kirishini doimo nazorat kilib turishni, axborot ob'ektini himoyalash tizimidagi "rakna"larni anikdashni, konfidentsial ma'lumotlardan ruxsatsiz foydalanish kollarini kisobga olishni talab etadi
+
+++++
+
+Xavfsizlik siyosatini madadlash boskichi nima?
+====
+# Utkaziladigan tadbirlar niyati buzuk odamlarning tarmokka bostirib kirishini doimo nazorat kilib turishni, axborot ob'ektini himoyalash tizimidagi "rakna"larni anikdashni, konfidentsial ma'lumotlardan ruxsatsiz foydalanish kollarini kisobga olishni talab etadi
+====
+moliyaviy xarajatlarni kisoblash va masalalarni yechish uchun mos vositalarni tanlash bilan boshlanadi
+====
+tarmogining zaif elementlari taxlil- lanadi, takdidlar anikdanadi va bakolanadi, himoyaning optimal vositalari tanlanadi
+====
+xavfsizlik siyosatini amalga oshirish moliyaviy xarajatlarni kisoblash va masalalarni yechish uchun mos vositalarni tanlash bilan boshlanadi
+
+++++
+
+Moliyaviy cheklashlar bu.......
+====
+# Boshqarish vositalarini amalga oshirish yoki qo'llab-quvvatlash, ular muhofaza qilishi mo'ljallangan aktivlar bahosidan qimmat bo'lishi kerak emas
+====
+dasturlarning yoki apparat vositalarining moslashuvi kabi texnik muammolarni, boshqarish vositalarini tanlash vaqtida hisobga olib, oson chetlab o'tish
+====
+rezerv nusxani yaratgan holda,kuniga 24soat, haftasiga 7 kun ishlash zarurligi
+====
+ishlab chiqarish maydonlarining mavjudligi, ekstremal iqlim sharoitlari, o'rab turgan tabiiy muhit va shahar muhiti kabi atrof-muhit omillari boshqarish vositalarini tanlashga ta'sir etishi
+
+++++
+
+«Yangi axborot tizimini tatbiq etish» hujjati nima ?
+====
+# Tashkilotda yangi axborot tizimini tatbiq etish jarayonlarini beligilab o'tish uchun mo'ljallangan
+====
+axborot xavfsizligining maqsad va prinsiplarini aniqlash uchun mo'ljallangan bulib,o'z navbatida axborot xavfsizligi obyektlari ro'yxati ko'rsatib o'tiladi
+====
+dasturlarning yoki apparat vositalarining moslashuvi kabi texnik muammolarni, boshqarish vositalarini tanlash vaqtida hisobga olib, oson chetlab o'tish
+====
+tashkilotda xodimlarni tanlashda va ular bilan ishlashda axborot xavfsizligini ta'minlash chora-tadbirlarini aniqlash uchun mo'ljallangan
+
+++++
+
+«Yangi axborot tizimini tatbiq etish» hujjati shakli qanday ko’rinishda bo’ladi
+====
+# Yo’riqnoma
+====
+ma’lumotnoma
+====
+nizom
+====
+dalolatnoma
+
+++++
+
+ISO 27002 standarti nima?
+====
+# Axborot xavfsizligini boshqarish tizimini  ishlab chiqish, joriy etish, uning ishlashi, monitoringi, tahlili, unga xizmat ko'rsatish va uni takomillashtirish modeli va talablaridan iborat bo'lgan standart
+====
+risklarni baxolovchi standart
+====
+simsiz tarmoq standarti
+====
+protokollar standarti
+
+++++
+
+«Xodimlarni tanlash va ular bilan ishlashda axborot xavfsizligi» hujjati nima ?
+====
+# Tashkilotda xodimlarni tanlashda va ular bilan ishlashda axborot xavfsizligini ta'minlash chora-tadbirlarini aniqlash uchun mo'ljallangan
+====
+tashkilotda yangi axborot tizimini tatbiq etish jarayonlarini beligilab o'tish uchun mo'ljallangan
+====
+axborot xavfsizligining maqsad va prinsiplarini aniqlash uchun mo'ljallangan bulib,o'z navbatida axborot xavfsizligi obyektlari ro'yxati ko'rsatib o'tiladi
+====
+barcha javoblar to’g’ri
+
+++++
+
+«Xodimlarni tanlash va ular bilan ishlashda axborot xavfsizligi» hujjati kim tomonidan ishlab chiqiladi?
+====
+# Xavfsizlik masalalari bilan shug'ullanuvchi bo'lim tomonidan
+====
+tashkilot rahbari tomonidan
+====
+kadrlar bo’limi tomonidan
+====
+xavfsizlik xodimi
+
+++++
+
+«Xodimlarni tanlash va ular bilan ishlashda axborot xavfsizligi» hujjati qancha muddatda yangilanadi?
+====
+# Zaruriyatdan kelib chiqqan holda
+====
+1 йил
+====
+xodimlar o’zgarganda
+====
+6 oy
+
+++++
+
+Axborot xavfsizligining asosiy xarakteristirflari nimalar?
+====
+# Konfidentsiallik, butunlik, foydalana olishlik
+====
+konfidentsiallik, aniqlik
+====
+sirlilik, butunlik, foydalana olishlikni urganib chiqish
+====
+identifikatsiya va autentifikatsiya
+
+++++
+
+Xavfsizlikka tahdid qaysi 2 ta sinfga bolinadi?
+====
+# Uyushtirilgan va Tasodifiy tahdid
+====
+oldindan o’ylangan va oldindan o’ylanmagan tahdid
+====
+uyushtirilmagan va uyushtirilgan tahdid
+====
+uyushtirilgan va Tasodifiy tahdid
+
+++++
+
+Fizik va texnik himoyalash vositalarining funksiyasi nima?
+====
+# Tashkiliy meyorlar kamchiligini bartaraf etish
+====
+foydalanuchilarning tizim resurslariga kirish qoidalarini ishlab chiqish
+====
+kirishni cheklab qo’yish
+====
+yashirin holdagi buzg’inchilarni ushlab turuvchi omil
+
+++++
+
+Uyishtirilmagan tahdid, ya’ni tizim yoki dasturdagi qurilmaning jismoniy xatoligi – bu…
+====
+# Tasodifiy tahdid
+====
+uyishtirilgan tahdid
+====
+faol tahdid
+====
+passiv tahdid
+
+++++
+
+Parol-bu:
+====
+# Foydalanuvchi hamda uning axborot almashinuvidagi sherigi biladigan axborot
+====
+foydalanuvchining nomi
+====
+axborotni shifrlash kaliti hamda uning axborot almashinuvidagi sherigi biladigan axborot
+====
+axborotni tashish vositasi
+
+++++
+
+"Xavfsizlik siyosati” deb ataluvchi korporativ kompьyuter tarmoqlari  necha qismdan iborat?
+====
+# 2 Ta
+====
+5 ta
+====
+3 ta
+====
+4 ta
+
+++++
+
+"Xavfsizlik siyosati” deb ataluvchi korporativ kompьyuter tarmoqlarini sanab o’ting
+====
+# Umumiy printsiplar va ishlashning muayyan qoidalari
+====
+foydalanish reglamenti xamda tarmokdan foydalanuvchilar
+====
+ob'ektlar, resurslar va muolajalarni bevosita ximoyasi
+====
+to’g’ri  javob  yo’q
+
+++++
+
+Himoya tizimini loyihalash va amalga oshirish bosqichlarini ko’rsating?
+====
+# Xavf-xatarni taxlillash, xavfsizlik siyosatini amalga oshirish,  xavfsizlik siyosatini madadlash
+====
+foydalanishlarni taxlillash,  xavfsizlik xodimlarini tanlash,  tarmoqni qayta loyihalash
+====
+tizim kamchiligini izlash, xavfsizlik xodimlarinitanlash, siyosatni qayta ko’rish
+====
+dasturlarni yangilash, xavfsizlik xodimlarinitanlash,  tarmoqni qayta loyihalashni tahlil qilib chiqish
+
+++++
+
+Fоydalanuvchining tarmоqdagi harakatlarini va resurslardan fоydalanishga urinishini qayd etish-bu:
+====
+# Ma`murlash
+====
+autentifikatsiya
+====
+identifikatsiya
+====
+sertifikatsiyalash
+
+++++
+
+Foydalanuvchini uning identifikatori (nomi) bo‘yicha aniqlash jarayoni-bu:
+====
+# Identifikatsiya
+====
+autentifikatsiya
+====
+avtorizatsiya
+====
+ma’murlash (accounting)
+
+++++
+
+Foydalanuvchini autentifikatsiyalashda qanday ma’lumotdan foydalaniladi?
+====
+# Parol
+====
+ismi va ID raqami
+====
+eri algoritmlari
+====
+telefon raqami
+
+++++
+
+Foydalanish huquqlariga (mualliflikka) ega barcha foydalanuvchilar axborotdan foydalana olishliklari-bu:
+====
+# Foydalanuvchanligi
+====
+ma’lumotlar butunligi
+====
+axborotning konfedensialligi
+====
+ixchamligi
+
+++++
+
+Eng ko'p axborot xavfsizligini buzilish holati-bu:
+====
+# Tarmoqda ruxsatsiz ichki foydalanish
+====
+tizimni loyihalash xatolaridan foydalanish
+====
+tashqi tarmoq resursiga ulanish
+====
+simsiz tarmoqqa ulanish
+
+++++
+
+Dinamik parol-bu:
+====
+# Bir marta ishlatiladigan parol	
+====
+ko’p marta ishlatiladigan parol
+====
+foydalanuvchi ismi va familiyasining nomi
+====
+sertifikat raqamlari
+
+++++
+
+Bugungi kunga kelib ba’zi bir davlatlarning rahbarlari qanday dasturlarni yaratishni moliyalashtirmoqdalar?
+====
+# Kiber dasturlarni
+====
+windows dasturlarni
+====
+ishonchli dasturlarni
+====
+yangi dasturlarni
+
+++++
+
+Axbоrоt tizimlari xavfsizligining auditi-bu?
+====
+# Axborot tizimlarining himoyalanishining joriy holati, tizim haqida ob’yektiv ma’lumotlarni olish va baholash
+====
+ma`lumоtlarini tahlillash va chоra ko’rishni tizim haqida subyektiv ma’lumotlarni olish va baholashni tahlil qiladi
+====
+ma`lumоtlarini tarqatish va boshqarish
+====
+axbоrоtni yig’ish va korxona tarmog’ini tahlillash
+
+++++
+
+Axbоrоt infratuzilmasi-bu:
+====
+# Servislarni ta’minlovchi vositalar, aloqa liniyalari, muolajar, me’yoriy xujjatlar
+====
+kоmpyuterlardan foydalanivchilar uchun xizmatlarni ko’paytirish uchun muolajar, me’yoriy hujjatlar
+====
+axbоrоt tizimlarini baholash va tizimni boshqarish
+====
+kоmpyuter tizimlarini nazoratlash, aloqa liniyalarini tekshirish
+
+++++
+
+Axborotni ximoyalash konsepsiyasi–bu:
+====
+# Axborot xavfsizligi muammosiga rasmiy qabul qilingan qarashlar tizimi va uni zamonaviy tendensiyalarni hisobgaolgan holda yechish yo‘llari
+====
+axborotga bo‘lgan hujumlar majmui
+====
+axborotga bo‘lgan foydalanishlar majmui
+====
+axborotni yaratish, qayta ishlashga bo‘lgan qarashlar va uni zamonaviy tendensiyalarni hisobgaolgan holda yechish yo‘llarini inobatga olgan holati
+
+++++
+
+Axborotning buzilishi yoki yo‘qotilishi xavfiga olib keluvchi himoyalanuvchi ob’ektga qarshi qilingan xarakatlar kanday nomlanadi?
+====
+# Tahdid
+====
+zaiflik
+====
+hujum
+====
+butunlik
+
+++++
+
+Axborotni qanday ta’sirlardan himoyalash kerak?
+====
+# Axborotdan ruxsatsiz foydalanishdan, uni buzilishdan yoki yo‘q qilinishidan
+====
+axborotdan qonuniy foydalanishdan, uni qayta ishlash yoki sotishdan
+====
+axborotdan qonuniy foydalanishdan, uni qayta ishlash yoki foydalanishdan o’rganishi
+====
+axborotdan tegishli foydalanishdan, uni tarmoqda uzatishdan
+
+++++
+
+Axborotni ishonchli himoya mexanizmini yaratishda  quydagilardan qaysi biri muhim hisoblanadi?
+====
+# Tashkiliy tadbirlar
+====
+ommaviy tadbirlar
+====
+antivirus dasturlari
+====
+foydalanuvchilar malakasi
+
+++++
+
+Axborotni himoyalash tizimida bajarilishi shart bo‘lgan qoidalar yo‘riqnomalar va qo‘llanmalar majmuyi–bu:
+====
+# Axborot xavfsizligining huquqiy ta’minoti
+====
+axborot xavfsizligining tashkiliy ta’minoti
+====
+axborot xavfsizligining uslubiy ta’minoti
+====
+axborot xavfsizligining amaliy ta’minoti
+
+++++
+
+Axborotdan qanday foydalanish ruxsat etilmagan deb yuritiladi?
+====
+# Foydalanishga o‘rnatilgan chegaralash qoidalarini buzadigan
+====
+axborot butunligini buzmaydigan
+====
+axborot konfidensialligini buzmaydigan
+====
+foydalanishga o‘rnatilgan chegaralash qoidalarini buzmaydigan
+
+++++
+
+Axborot	xavfsizligi konsepsiyasini ishlab chiqish necha bosqichdan iborat?
+====
+# 3 Bosqich
+====
+4 bosqich
+====
+5 bosqich
+====
+6 bosqich
+
+++++
+
+Axborot	xavfsizligi konsepsiyasini ishlab chiqishning  birinchi bosqichida nima qilinadi?
+====
+# Himoyalanuvchi obyektning qiymati aniqlanadi
+====
+buzg’unchining bo'lishi mumkin bo'lgan harakatlari taxlillanadi
+====
+axborotni himoyalash vositalarining ishonchliligi baholanadi
+====
+tizimni loyihalash jadallashtiriladi
+
+++++
+
+Axborot	xavfsizligi	konsepsiyasini ishlab chiqishning  ikkinchi bosqichida nima qilinadi?
+====
+# Buzg’unchining bo'lishi mumkin bo'lgan harakatlari taxlillanadi
+====
+tizimni loyihalash jadallashtiriladi
+====
+himoyalanuvchi obyektning qiymati aniqlanadi
+====
+axborotni himoyalash vositalarining ishonchliligi baholanadi va urganiladi
+
+++++
+
+Axborot	xavfsizligi	konsepsiyasini ishlab chiqishning  uchunchi bosqichida nima qilinadi?
+====
+# Obyektga o'rnatilgan axborotni himoyalash vositalarining ishonchliligi baholanadi
+====
+loyihalash jadallashtiriladi
+====
+buzg’unchining bo'lishi mumkin bo'lgan harakatlari taxlillanadi va ishonchliligi baholanadi
+====
+himoyalanuvchi obyektning qiymati aniqlanadi
+
+++++
+
+Axborot xavfsizligining huquqiy ta'minotiga nimalar kiradi?
+====
+# Qonunlar, aktlar, me'yoriy-huquqiy hujjatlar, qoidalar, yo'riqnomalar, qo'llanmalar majmui
+====
+qoidalar yo'riqnomalar, tizim arxetikturasi, xodimlar malakasi, yangi qoidalar, yangi yo'riqnomalar, qo'llanmalar majmui
+====
+qoidalar, yo'riqnomalar, tizim strukturasi, dasturiy ta’minot
+====
+himoya tizimini loyihalash, nazorat usullari
+
+++++
+
+Axborot xavfsizligining huquqiy ta'minoti qaysi me’yorlarni o’z ichiga oladi?
+====
+# Xalqaro va milliy huquqiy me’yorlarni
+====
+tashkiliy va xalqaro me’yorlarni
+====
+ananaviy va korporativ me’yorlarni
+====
+davlat va nodavlat tashkilotlari me’yorlarni
+
+++++
+
+Axborot xavfsizligini ta'minlovchi choralarni ko’rsating?
+====
+# Huquqiy, tashkiliy-ma'muriy, injener-texnik
+====
+axloqiy, tashkiliy-ma'muriy, fizikaviy-kimyoviy
+====
+dasturiy, tashkiliy-ma'muriy, huquqiy
+====
+apparat, texnikaviy, huquqiy
+
+++++
+
+Korxona (firma, kompaniya va boshqalar) ning xavfsizlik xizmati tarkibi, hajmi va tarkibi.) korxonaning real ehtiyojlari va axborotlarining maxfiyligi qanday baholanadi?
+====
+# Darajasiga qarab
+====
+turiga qarab
+====
+to’ri javob yo’q
+====
+hajmiga qarab
+
+++++
+
+Korxona xavfsizlik xizmatining asosiy vazifalari?
+====
+# Korxona xavfsizligini ta’minlash
+====
+ishchi Xodimlarni nazorat qilish
+====
+mahsulot sifatini tekshirish
+====
+to’g’ri javob yo’q
+
+++++
+
+Axborot xavfsizligini buzuvchilarni qanday kategoriyalarga ajratish mumkin?
+====
+# Sarguzasht qidiruvchilar, g’oyaviy xakerlar,  xakerlar-professionallar,  ishonchsiz xodimlar
+====
+buzgunchilar, g’oyaviy xakerlar, xakerlar-professionallar,  sotqinlar, krakerlar va ularning guruhlari
+====
+buzgunchilar,  dasturchilar,  xakerlar,  sotqinlar
+====
+foydalanuvchilar,  xodimlar,  xakerlar,  sotqinlar
+
+++++
+
+Axborot xavfsizligi strategiyasi va himoya tizimi arxitekturasi nima asosida ishlab chiqiladi?	
+====
+# Axborot xavfsizligi konsepsiyasi asosida	
+====
+tizimni loyihalashda yuzaga keladigan vaziyat asosida	
+====
+axborot tizimi qurilmalarini soddalashtirish asosida	
+====
+himoyani buzishga bo’lgan urinishlar asosida	
+
+++++
+
+Axborot xavfsizligi siyosatini ishlab chiqishda  avvalo nimalar aniqlanadi?	
+====
+# Himoya qilinuvchi obyekt va uning vazifalari	
+====
+mavjud himoya vositalari	
+====
+himoya tizimiga talablar	
+====
+himoya tizimini tashkil etish muddati va vazifasi	
+
+++++
+
+Axborot xavfsizligi siyosatida  ishlashning muayyan qoidalari nimalarni  belgilaydi?	
+====
+# Nima ruxsat etilishini va nima ruxsat etilmasligini	
+====
+axborotni  himoyalash vositalarini to‘plamlari	
+====
+xavfsizlikni amalga oshirish vaqti meьyorlari	
+====
+axborotni himoyalash bosqichlari	
+
+++++
+
+Axborot  xavfsizligi strategiyasi va himoya tizimi arxitekturasi nima asosida ishlab chiqiladi?
+====
+# Axborot  xavfsizligi konsepsiyasi
+====
+standartlar va xalqaro standartlar markazi
+====
+farmonlar
+====
+buyruqlar
+
+++++
+
+Avtorizatsiya tizimdan foydalanishda qanday vakolat berani?
+====
+# Subyektning harakat doirasi va foydalanadigan resurslarni belgilaydi
+====
+resurslardan foydalanishga imkon beradi va obyekni to'g'ri ishlashini nazorat beradi
+====
+resurslarni o’zgartirishga imkon beradi	
+====
+subyektni foydalanishi taqiqlangan resurslarni belgilaydi
+
+++++
+
+Aksariyat tijorat tashkilotlari uchun ichki tarmoq xavfsizligini ta’minlashning zaruriy sharti–bu:
+====
+# Tamoqlararo ekranlarning o‘rnatilishi
+====
+tashkiliy ishlarni bajarilishi
+====
+globol tarmoqdan uzib qo‘yish
+====
+aloqa kanallarida optik toladan foydalanish
+
+++++
+
+Agar axborotning o'g'irlanishi moddiy va ma'naviy boyliklarning yo'qotilishi bilan bog'liq bo'lsa bu nima deb yuritiladi?
+====
+# Jinoyat sifatida baholanadi
+====
+rag’bat hisoblanadi
+====
+buzgunchilik hisoblanadi
+====
+guruhlar kurashi hisoblanadi
+
+++++
+
+Ma’lumotlarni o‘qib olishni qiyinlashtirish maqsadida ularni kriptografiya usullari orqali kodlashga nima deyiladi?
+====
+# Niqoblash usuli
+====
+to‘sqinlik usuli
+====
+majburlash usuli
+====
+kriptografiya usuli
